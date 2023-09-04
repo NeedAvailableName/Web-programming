@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="edit.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Edit</title>
+</head>
+<body>
+    <!-- <script src="resource.js" type="module"></script> -->
+    <div id="headerPanel">
+        <a href="https://ctt.hust.edu.vn/">
+            <img src="./assets/img/logo-cttdt.png" alt="" style="height: 100%;">
+        </a>
+    </div>
+    <div id="topMenuPanel">
+        <ul id="topMenuList" class="horizontal_ul">
+            <li class="hov_topMenu">Đào tạo đại học</li>
+            <li class="hov_topMenu">Đào tạo sau đại học</li>
+            <li class="hov_topMenu">Công tác sinh viên</li>
+            <li class="hov_topMenu">Tra cứu văn bằng</li>
+        </ul>
+    </div>
+    <div id="breadCum">
+        <div class="bread_item">Trang chủ</div>
+    </div>
+    <table id="content">
+        <tbody>
+            <tr>
+                <td id="col_content">
+                    <div id="sidebar">
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title">
+                                    <img src="./assets/img/student.png" alt="">
+                                    <span style="margin-left: 5px;">Phạm Hải Đăng</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Thư báo <span class="badge">0</span></a> 
+                                    </li>
+                                    <li><a href="">Đổi mật khẩu</a></li>
+                                    <li><a href="">Cấp lại mật khẩu Email trường</a></li>
+                                    <li><a href="">Thoát đăng nhập</a></li>
+                                    <li><a href="">Thông tin mật khẩu Email cấp mới</a></li>
+                                    <li><a href="">Xác nhận khai báo y tế</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">QUẢN LÍ HỒ SƠ SINH VIÊN</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Thông tin sinh viên</a></li>
+                                    <li><a href="">Cập nhật thông tin cá nhân</a></li>
+                                    <li><a href="">Thông tin lớp sinh viên</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img" style="height: 20px;">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">ĐÀO TẠO</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Chương trình đào tạo</a></li>
+                                    <li><a href="">Kế hoạch học tập</a></li>
+                                    <li><a href="">Kết quả học tập</a></li>
+                                    <li><a href="">Đồ án tốt nghiệp</a></li>
+                                    <li><a href="">Thời khóa biểu tạm thời</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">TƯ VẤN TRỰC TUYẾN</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Hỏi đáp - Tư vấn trực tuyến</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">TÀI CHÍNH HỌC VỤ</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Thông tin công nợ học phí</a></li>
+                                    <li><a href="">Thanh toán học phí trực tuyến</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">DỊCH VỤ HÀNH CHÍNH</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Đăng kí cấp giấy tờ</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </td>
+                <td style="vertical-align: top;">
+                    <div id="container">
+                        <div class="contentTitle hust_title">
+                            <h3 style="margin: 5px 10px;">THÔNG TIN CÁ NHÂN <span><button id="export-pdf" style="background-color: red;">ExportPdf</button></span></h3>
+                            <hr class="main_hr">
+                        </div>
+                        <div class="mainContent">
+                            <form id="form" class="student_info" method="POST">
+                                <fieldset class="form_status" id="form-status">
+                                    <div class="title_container">
+                                        <div class="hust_title">THÔNG TIN SINH VIÊN_<span>20194736</span></div>
+                                        <button class="add_group" onclick="handleAddGroup(event)">Add Group Item</button>
+                                        <button class="add_item" onclick="openSelectAddItemBox(event)">Add Info Item ></button>
+                                    </div>
+                                    
+                                    <div style="display: none;" class="hr"></div>
+                                    <div style="display: none;">
+                                        <div class="student_info_content">
+                                            <div class="stu_image">
+                                                <input type="file" id="newImage">
+                                                <img id="img" src="" alt="" style="height: 293px;width: 200px; box-shadow: 10px 10px 5px lightblue;">
+                                            </div>
+                                            <div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Họ và tên : </div>
+                                                    <input id="ten" type="text">
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Năm vào trường : </div>
+                                                    <input id="nam-vao" type="text">
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Bậc đào tạo : </div>
+                                                    <input id="bac-dao-tao" type="text">
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Chương trình : </div>
+                                                    <input id="chuong-trinh" type="text">
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <label for="khoa-vien" class="col-md-4-row-label">Khoa/Viện quản lý : </label>
+                                                    <select name="khoa-vien" id="khoa-vien">
+                                                        <option value="Trường Công nghệ Thông tin và Truyền thông">Trường Công nghệ Thông tin và Truyền thông</option>
+                                                        <option value="Viện điện tử Viễn Thông">Viện điện tử Viễn Thông</option>
+                                                        <option value="Viện Toán Tin">Viện Toán Tin</option>
+                                                        <option value="Viện Vật Lý kĩ thuật">Viện Vật Lý kĩ thuật</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Tình trạng học tập : </div>
+                                                    <input type="radio" id="study" name="status" value="Học">
+                                                    <label class="radio_label" for="study">Học</label><br>
+                                                    <input type="radio" id="stop" name="status" value="Ngừng học">
+                                                    <label class="radio_label" for="stop">Ngừng học</label><br>
+                                                    <input type="radio" id="grad" name="status" value="Tốt nghiệp">
+                                                    <label class="radio_label" for="grad">Tốt nghiệp</label><br>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Giới tính : </div>
+                                                    <input type="radio" id="male" name="gender" value="Nam">
+                                                    <label class="radio_label" for="male">Nam</label><br>
+                                                    <input type="radio" id="female" name="gender" value="Nữ">
+                                                    <label class="radio_label" for="female">Nữ</label><br>
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Lớp : </div>
+                                                    <input id="lop" type="text">
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Khóa học : </div>
+                                                    <input id="khoa-hoc" type="text">
+                                                </div>
+                                                <div class="col-md-4-row">
+                                                    <div class="col-md-4-row-label">Email : </div>
+                                                    <input id="email" type="text">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="append_item" name="append"></div>
+                                </fieldset>
+                            </form>
+                            <div class="btn" style="display: flex; margin: 10px 0 10px 20px;">
+                                <input type="submit" id="ok" value="OK" style="line-height: 30px; width: 70px; background-color: greenyellow; text-align: center; margin-right: 20px; border-radius: 4px;"></input>
+                                <input type="submit" id="cancle" value="Cancle" style="line-height: 30px; width: 70px; background-color: red; text-align: center; margin-right: 20px; border-radius: 4px;"></input>
+                                <input type="submit" id="reset" value="Reset" style="line-height: 30px; width: 70px; background-color: yellow; text-align: center; margin-right: 20px;border-radius: 4px;"></input>
+                            </div>
+                            <a id="return_home" href="index.html" style="line-height: 30px; min-width: 70px; text-align: center; margin-left: 20px;">Quay về trang TTSV</a>
+
+                            <div class="promt_delete_group_container" id="delete-group-promt">
+                                <div class="promt_delete_group">
+                                    <b>Phạm Hải Đăng - 20194736</b>
+                                    <p>Bạn chắc chắn muốn xóa mục này?</p>
+                                    <div style="display: flex; justify-content: space-around;">
+                                        <button onclick="deleteGroup(event)" style="background-color: greenyellow; width: 100px; height: 30px;">Có</button>
+                                        <button onclick="notDeleteGroup(event)" style="background-color: red; width: 100px;">Không</button>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Radio dialog -->
+                            <div id="radio-dialog-container">
+                                <div id="radio-dialog">
+                                    <div id="radio-name" style="display: flex;">
+                                        <span>RadioName<span style="color: red;">(*)</span>:</span>
+                                        <input type="text" style="width: 120px;"/>
+                                    </div>
+                                    <div id="radio-alert" style="display: none; color: red;">RadioName field is required!</div>
+                                    <div>Item:</div>
+                                    <div id="radio-dialog-list">
+                                        <input type="text"/>
+                                        <input type="text"/>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around;">
+                                        <button onclick="createRadio(event)">Create</button>
+                                        <button onclick="cancleRadio(event)">Cancle</button>
+                                        <button onclick="addItemRadio(event)">Add Item</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Dropdownlist dialog -->
+                            <div id="list-dialog-container">
+                                <div id="list-dialog">
+                                    <div>Item:</div>
+                                    <div id="list-dialog-list">
+                                        <input type="text"/>
+                                        <input type="text"/>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-around;">
+                                        <button onclick="createList(event)">Create</button>
+                                        <button onclick="cancleList(event)">Cancel</button>
+                                        <button onclick="addItemList(event)">Add Item</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div id="footerPanel"></div>
+    <div></div>
+    <div id="item-type">
+        <ul>
+            <li><button onclick="handleClickItem(event)">Text</button></li>
+            <li><button onclick="handleClickItem(event)">Number</button></li>
+            <li><button onclick="handleClickItem(event)">Email</button></li>
+            <li><button onclick="handleClickItem(event)">RadioButton</button></li>
+            <li><button onclick="handleClickItem(event)">DropdownList</button></li>
+        </ul>
+    </div>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.22/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+    <script src="handle-form.js"></script>
+</body>
+</html>

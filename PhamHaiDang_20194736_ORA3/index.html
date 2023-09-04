@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>MainPage</title>
+</head>
+<body>
+    <script src="handle-main.js" type="module"></script>
+    <div id="headerPanel">
+        <a href="https://ctt.hust.edu.vn/">
+            <img src="./assets/img/logo-cttdt.png" alt="" style="height: 100%;">
+        </a>
+    </div>
+    <div id="topMenuPanel">
+        <ul id="topMenuList" class="horizontal_ul">
+            <li class="hov_topMenu">Đào tạo đại học</li>
+            <li class="hov_topMenu">Đào tạo sau đại học</li>
+            <li class="hov_topMenu">Công tác sinh viên</li>
+            <li class="hov_topMenu">Tra cứu văn bằng</li>
+        </ul>
+    </div>
+    <div id="breadCum">
+        <div class="bread_item">Trang chủ</div>
+    </div>
+    <table id="content">
+        <tbody>
+            <tr>
+                <td id="col_content">
+                    <div id="sidebar">
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title">
+                                    <img src="./assets/img/student.png" alt="">
+                                    <span style="margin-left: 5px;">Phạm Hải Đăng</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Thư báo <span class="badge">0</span></a> 
+                                    </li>
+                                    <li><a href="">Đổi mật khẩu</a></li>
+                                    <li><a href="">Cấp lại mật khẩu Email trường</a></li>
+                                    <li><a href="">Thoát đăng nhập</a></li>
+                                    <li><a href="">Thông tin mật khẩu Email cấp mới</a></li>
+                                    <li><a href="">Xác nhận khai báo y tế</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">QUẢN LÍ HỒ SƠ SINH VIÊN</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Thông tin sinh viên</a></li>
+                                    <li><a href="">Cập nhật thông tin cá nhân</a></li>
+                                    <li><a href="">Thông tin lớp sinh viên</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img" style="height: 20px;">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">ĐÀO TẠO</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Chương trình đào tạo</a></li>
+                                    <li><a href="">Kế hoạch học tập</a></li>
+                                    <li><a href="">Kết quả học tập</a></li>
+                                    <li><a href="">Đồ án tốt nghiệp</a></li>
+                                    <li><a href="">Thời khóa biểu tạm thời</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">TƯ VẤN TRỰC TUYẾN</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Hỏi đáp - Tư vấn trực tuyến</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">TÀI CHÍNH HỌC VỤ</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Thông tin công nợ học phí</a></li>
+                                    <li><a href="">Thanh toán học phí trực tuyến</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="sidebar_block">
+                            <div class="block_content">
+                                <h3 class="hust_title title_no_img">
+                                    <!-- <img src="./assets/img/student.png" alt=""> -->
+                                    <span style="margin-left: 5px;">DỊCH VỤ HÀNH CHÍNH</span>
+                                </h3>
+                                <ul>
+                                    <li><a href="">Đăng kí cấp giấy tờ</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </td>
+                <td style="vertical-align: top;">
+                    <div id="container">
+                        <div class="contentTitle hust_title">
+                            <h3 style="margin: 5px 10px;">THÔNG TIN CÁ NHÂN</h3>
+                            <hr class="main_hr">
+                        </div>
+                        <div class="mainContent">
+                            <div class="student_info">
+                                <div class="hust_title">THÔNG TIN SINH VIÊN<a href="edit.html"><i class="fa fa-pencil-square-o edit_btn" aria-hidden="true"></i></a></div>
+                                <div class="hr"></div>
+                                <div class="student_info_content">
+                                    <div class="stu_image">
+                                        <img id="img" src="" alt="" style="height: 293px;width: 200px; box-shadow: 10px 10px 5px lightblue;">
+                                        <div class="col-md-4-row" style="padding: 10px 0 0 40px;">
+                                            <div class="col-md-4-row-label">MSSV: </div>
+                                            <div class="col-md-4-row-value">20194736</div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Họ và tên : </div>
+                                            <div id="ten" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Năm vào trường : </div>
+                                            <div id="nam-vao" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Bậc đào tạo : </div>
+                                            <div id="bac-dao-tao" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Chương trình : </div>
+                                            <div id="chuong-trinh" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Khoa/Viện quản lý : </div>
+                                            <div id="khoa-vien" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Tình trạng học tập : </div>
+                                            <div id="tinh-trang" class="col-md-4-row-value"></div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Giới tính : </div>
+                                            <div id="gioi-tinh" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Lớp : </div>
+                                            <div id="lop" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Khóa học : </div>
+                                            <div id="khoa-hoc" class="col-md-4-row-value"></div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Email : </div>
+                                            <div id="email" class="col-md-4-row-value"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="learning_info">
+                                <div class="hust_title">THÔNG TIN HỌC TẬP</div>
+                                <div class="hr"></div>
+                                <div class="student_info_content">
+                                    <div>
+                                        <div class="col-md-4-body">
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Tổng kết học kỳ : </div>
+                                                <div class="col-md-4-row-value" id="semester">20212</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Trung bình tích lũy :</div>
+                                                <div class="col-md-4-row-value" id="average">3.74</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Số TC nợ đăng ký :</div>
+                                                <div class="col-md-4-row-value" id="redcredit">0</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Số TC tích lũy :</div>
+                                            <div class="col-md-4-row-value" id="greencredit">65</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Trình độ sinh viên :</div>
+                                            <div class="col-md-4-row-value" id="year">3</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Mức cảnh báo :</div>
+                                            <div class="col-md-4-row-value" id="warning">M0</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="personal_info">
+                                <div class="hust_title">THÔNG TIN CÁ NHÂN</div>
+                                <div class="hr"></div>
+                                <div class="student_info_content">
+                                    <div>
+                                        <div class="col-md-4-body">
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Dân tộc : </div>
+                                                <div class="col-md-4-row-value" id="folk">Kinh</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Năm TN cấp 3 : </div>
+                                                <div class="col-md-4-row-value" id="grayear">2020</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Địa chỉ :</div>
+                                                <div class="col-md-4-row-value" id="address">Xã Mai Hóa, Huyện Tuyên Hóa, tỉnh Quảng Bình</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Số CMTND :</div>
+                                                <div class="col-md-4-row-value" id="id">030400004422</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Nơi cấp : </div>
+                                                <div class="col-md-4-row-value" id="placeid">Cục Cảnh sát quản lý hành chính và trật tự</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Họ tên bố :</div>
+                                                <div class="col-md-4-row-value" id="farther">Mai Anh Tài</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Nghề nghiệp :</div>
+                                                <div class="col-md-4-row-value" id="jobFa">Software Engineer</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Số điện thoại :</div>
+                                                <div class="col-md-4-row-value" id="phoneFa">096****229</div>
+                                            </div>
+                                            <div class="col-md-4-row">
+                                                <div class="col-md-4-row-label">Email :</div>
+                                                <div class="col-md-4-row-value" id="emailFa">taima@gmail.com</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Tôn giáo :</div>
+                                            <div class="col-md-4-row-value" id="region">Khong</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Trường THPT :</div>
+                                            <div class="col-md-4-row-value" id="highschool">THPT Phan Bội Châu</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Hộ khẩu :</div>
+                                            <div class="col-md-4-row-value" id="hokhau">Xã Mai Hóa, Huyện Tuyên Hóa, tỉnh Quảng Bình</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Số điện thoại :</div>
+                                            <div class="col-md-4-row-value" id="phoneMo">096****567</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Họ tên mẹ :</div>
+                                            <div class="col-md-4-row-value" id="mother">Nguyễn Thu Thảo</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Năm sinh :</div>
+                                            <div class="col-md-4-row-value" id="">1982</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Nghề nghiệp :</div>
+                                            <div class="col-md-4-row-value" id="jobMo">Tester</div>
+                                        </div>
+                                        <div class="col-md-4-row">
+                                            <div class="col-md-4-row-label">Email :</div>
+                                            <div class="col-md-4-row-value" id="emailMo">thaont@gmail.com</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div id="footerPanel"></div>
+    <div></div>
+</body>
+</html>

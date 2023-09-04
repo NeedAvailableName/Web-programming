@@ -1,0 +1,253 @@
+
+/* Title */
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+ul{
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+a {
+    text-decoration: none;
+}
+
+.hust_title {
+    color: #8c1515;
+    font-size: 14px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+.horizontal_ul{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    grid-auto-rows: 1fr;
+}
+/* HEADER */
+#headerPanel {
+    height: 120px;
+    width: 100vw;
+    border-top: solid 10px #c11c1c;
+    padding: 10px 10px;
+}
+
+#headerPanel img {
+    height: 100px;
+    padding-left: 68px;
+    cursor: pointer;
+}
+/* END OF HEADER */
+
+/* TOP MENU */
+#topMenuPanel {
+    min-height: 20px;
+    width: 100%;
+    box-shadow: 0px -5px 10px #9C1010;
+}
+
+#topMenuList {
+    background-color: #E7E9ED;
+    padding: 2px;
+}
+
+#topMenuList li{
+    line-height: 28px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.hov_topMenu:hover {
+    background-color: #9C1010;
+    color: #fff;
+    cursor: pointer;
+}
+/* END OF TOP MENU */
+
+/* BREAD CUM */
+#breadCum {
+    height: 40px;
+    width: 100vw;
+    padding: 5px 0 30px 0;
+    cursor: pointer;
+}
+
+.bread_item {
+    border-left: 3px solid #9f224e;
+    color: #9f224e;
+    background: #eceeed;
+    line-height: 25px;
+    width: fit-content;
+    padding: 0 5px 0 5px;
+    font-size: 17px;
+}
+
+.bread_item:hover {
+    text-decoration: underline;
+}
+/* END OF BREAD CUM */
+
+/* CONTENT */
+#content {
+    width: 100vw;
+}
+
+#col_content{
+    width: 285px;
+}
+
+.sidebar_block {
+    width: 285px;
+    background-color: #f2f1eb;
+    /* min-height: 200px; */
+}
+
+.block_content {
+    padding: 10px 10px 20px 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.block_content>ul>li {
+    color: #337ab7;
+    padding-left: 10px;
+}
+
+.block_content>ul>li>a {
+    display: block;
+    color: #337ab7;
+    padding: 5px 7px 5px 7px;
+    line-height: 27px;
+    width: 255px;
+    border-bottom: 1px solid #b9b998;
+    font-size: 14px;
+}
+
+.block_content>ul>li>a:hover {
+    background: #ebebeb!important;
+    color: #9e100e;
+}
+
+.title {
+    margin: 5px 0 5px 0;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+}
+
+.title_no_img {
+    margin: 5px 0 10px 0;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+}
+
+.hust_title>img {
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+}
+
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #9C1010;
+    border-radius: 10px;
+}
+/* .student_info {
+    display: flex;
+} */
+
+/* Right */
+#container {
+    height: 100%;
+    width: 100%;
+    padding-top: 10px;
+}
+.student_info_content {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.mainContent {
+    position: relative;
+    margin-top: 40px;
+}
+
+.main_hr{
+    margin: 20px 20px;
+}
+
+.col-md-4-row {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.col-md-4-row-label {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.col-md-4-row-value {
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.hr{
+    line-height: 4px;
+    border: 3px solid #FF9900;
+    display: block;
+    width: 80%;
+    margin: 20px 0 20px 0;
+}
+
+.edit_btn {
+    margin-left: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+.contentTitle h3 {
+    text-align: center;
+}
+/* END OF CONTENT */
+
+/* FOOTER */
+#footerPanel {
+    display: flex;
+    height: 100px;
+    background-clip: border-box;
+    background-image: url(./assets/img/footer.jpg);
+    background-size: auto;
+    background-origin: padding-box;
+    background-position-x: 50%;
+    background-position-y: 0;
+    border-top: solid 10px #9c1010;
+    padding-top: 10px;
+}
+/* END OF FOOTER */

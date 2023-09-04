@@ -1,0 +1,831 @@
+[Mon May 29 09:05:01.537962 2023] [mpm_winnt:notice] [pid 7176:tid 372] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon May 29 09:05:01.538961 2023] [mpm_winnt:notice] [pid 7176:tid 372] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon May 29 09:05:01.538961 2023] [core:notice] [pid 7176:tid 372] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon May 29 09:05:01.543962 2023] [mpm_winnt:notice] [pid 7176:tid 372] AH00418: Parent: Created child process 14632
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 14632:tid 344] AH00354: Child: Starting 64 worker threads.
+[Mon May 29 10:03:32.547404 2023] [mpm_winnt:notice] [pid 7176:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon May 29 10:03:34.578774 2023] [mpm_winnt:notice] [pid 14632:tid 344] AH00364: Child: All worker threads have exited.
+[Mon May 29 10:03:34.645922 2023] [mpm_winnt:notice] [pid 7176:tid 372] AH00430: Parent: Child process 14632 exited successfully.
+[Tue Jul 11 09:50:37.265722 2023] [mpm_winnt:notice] [pid 15640:tid 368] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Jul 11 09:50:37.266730 2023] [mpm_winnt:notice] [pid 15640:tid 368] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Jul 11 09:50:37.266730 2023] [core:notice] [pid 15640:tid 368] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Jul 11 09:50:37.281588 2023] [mpm_winnt:notice] [pid 15640:tid 368] AH00418: Parent: Created child process 6148
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 6148:tid 228] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 11 09:55:31.431186 2023] [mpm_winnt:notice] [pid 15640:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 11 09:55:33.451978 2023] [mpm_winnt:notice] [pid 6148:tid 228] AH00364: Child: All worker threads have exited.
+[Tue Jul 11 09:55:33.530944 2023] [mpm_winnt:notice] [pid 15640:tid 368] AH00430: Parent: Child process 6148 exited successfully.
+[Tue Jul 11 09:57:56.239177 2023] [mpm_winnt:notice] [pid 17248:tid 340] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Jul 11 09:57:56.240177 2023] [mpm_winnt:notice] [pid 17248:tid 340] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Jul 11 09:57:56.240177 2023] [core:notice] [pid 17248:tid 340] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Jul 11 09:57:56.248011 2023] [mpm_winnt:notice] [pid 17248:tid 340] AH00418: Parent: Created child process 16768
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16768:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 11 10:45:06.201428 2023] [mpm_winnt:notice] [pid 17248:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 11 10:45:08.225455 2023] [mpm_winnt:notice] [pid 16768:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Jul 11 10:45:08.270345 2023] [mpm_winnt:notice] [pid 17248:tid 340] AH00430: Parent: Child process 16768 exited successfully.
+[Tue Jul 11 10:48:07.687587 2023] [mpm_winnt:notice] [pid 6468:tid 368] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Jul 11 10:48:07.688590 2023] [mpm_winnt:notice] [pid 6468:tid 368] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Jul 11 10:48:07.688590 2023] [core:notice] [pid 6468:tid 368] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Jul 11 10:48:07.692587 2023] [mpm_winnt:notice] [pid 6468:tid 368] AH00418: Parent: Created child process 15520
+[Tue Jul 11 10:48:07.969910 2023] [mpm_winnt:notice] [pid 15520:tid 384] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 11 22:57:53.874103 2023] [mpm_winnt:notice] [pid 6468:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 11 22:57:55.921825 2023] [mpm_winnt:notice] [pid 15520:tid 384] AH00364: Child: All worker threads have exited.
+[Tue Jul 11 22:57:55.968701 2023] [mpm_winnt:notice] [pid 6468:tid 368] AH00430: Parent: Child process 15520 exited successfully.
+[Wed Jul 12 05:43:45.654778 2023] [mpm_winnt:notice] [pid 4464:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Jul 12 05:43:45.654778 2023] [mpm_winnt:notice] [pid 4464:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Jul 12 05:43:45.654778 2023] [core:notice] [pid 4464:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Jul 12 05:43:45.654778 2023] [mpm_winnt:notice] [pid 4464:tid 324] AH00418: Parent: Created child process 7476
+[Wed Jul 12 05:43:47.353614 2023] [mpm_winnt:notice] [pid 7476:tid 344] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 12 06:10:10.148695 2023] [mpm_winnt:notice] [pid 4464:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 12 06:10:12.289752 2023] [mpm_winnt:notice] [pid 7476:tid 344] AH00364: Child: All worker threads have exited.
+[Wed Jul 12 06:10:12.633505 2023] [mpm_winnt:notice] [pid 4464:tid 324] AH00430: Parent: Child process 7476 exited successfully.
+[Wed Jul 12 12:30:15.472387 2023] [mpm_winnt:notice] [pid 5208:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Jul 12 12:30:15.477399 2023] [mpm_winnt:notice] [pid 5208:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Jul 12 12:30:15.477399 2023] [core:notice] [pid 5208:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Jul 12 12:30:15.477399 2023] [mpm_winnt:notice] [pid 5208:tid 332] AH00418: Parent: Created child process 7496
+[Wed Jul 12 12:30:16.747550 2023] [mpm_winnt:notice] [pid 7496:tid 336] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 12 17:13:19.082911 2023] [mpm_winnt:notice] [pid 5208:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 12 17:13:21.146585 2023] [mpm_winnt:notice] [pid 7496:tid 336] AH00364: Child: All worker threads have exited.
+[Wed Jul 12 17:13:21.193462 2023] [mpm_winnt:notice] [pid 5208:tid 332] AH00430: Parent: Child process 7496 exited successfully.
+[Wed Jul 12 21:50:17.881615 2023] [mpm_winnt:notice] [pid 4980:tid 236] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Jul 12 21:50:17.882126 2023] [mpm_winnt:notice] [pid 4980:tid 236] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Jul 12 21:50:17.882126 2023] [core:notice] [pid 4980:tid 236] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Jul 12 21:50:17.882126 2023] [mpm_winnt:notice] [pid 4980:tid 236] AH00418: Parent: Created child process 7464
+[Wed Jul 12 21:50:20.005179 2023] [mpm_winnt:notice] [pid 7464:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 13 00:03:42.932880 2023] [mpm_winnt:notice] [pid 4980:tid 236] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 13 00:03:44.980669 2023] [mpm_winnt:notice] [pid 7464:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jul 13 00:03:45.043170 2023] [mpm_winnt:notice] [pid 4980:tid 236] AH00430: Parent: Child process 7464 exited successfully.
+[Thu Jul 13 10:33:27.255497 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 13 10:33:27.255497 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 13 10:33:27.255497 2023] [core:notice] [pid 4372:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 13 10:33:27.260562 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00418: Parent: Created child process 7460
+[Thu Jul 13 10:33:28.929263 2023] [mpm_winnt:notice] [pid 7460:tid 348] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 13 11:23:56.829680 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 13 11:23:58.861735 2023] [mpm_winnt:notice] [pid 7460:tid 348] AH00364: Child: All worker threads have exited.
+[Thu Jul 13 11:23:58.908608 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00430: Parent: Child process 7460 exited successfully.
+[Thu Jul 13 12:51:21.584863 2023] [mpm_winnt:notice] [pid 4380:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 13 12:51:21.587891 2023] [mpm_winnt:notice] [pid 4380:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 13 12:51:21.587891 2023] [core:notice] [pid 4380:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 13 12:51:21.587891 2023] [mpm_winnt:notice] [pid 4380:tid 320] AH00418: Parent: Created child process 7588
+[Thu Jul 13 12:51:23.450618 2023] [mpm_winnt:notice] [pid 7588:tid 352] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 13 22:05:51.405003 2023] [mpm_winnt:notice] [pid 4380:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 13 22:05:53.427083 2023] [mpm_winnt:notice] [pid 7588:tid 352] AH00364: Child: All worker threads have exited.
+[Thu Jul 13 22:05:53.499235 2023] [mpm_winnt:notice] [pid 4380:tid 320] AH00430: Parent: Child process 7588 exited successfully.
+[Thu Jul 13 22:07:00.835583 2023] [mpm_winnt:notice] [pid 4116:tid 344] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 13 22:07:00.836569 2023] [mpm_winnt:notice] [pid 4116:tid 344] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 13 22:07:00.836569 2023] [core:notice] [pid 4116:tid 344] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 13 22:07:00.844769 2023] [mpm_winnt:notice] [pid 4116:tid 344] AH00418: Parent: Created child process 16464
+[Thu Jul 13 22:07:01.194329 2023] [mpm_winnt:notice] [pid 16464:tid 360] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 13 22:48:12.843392 2023] [mpm_winnt:notice] [pid 4116:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 13 22:48:15.520768 2023] [mpm_winnt:notice] [pid 16464:tid 360] AH00364: Child: All worker threads have exited.
+[Thu Jul 13 22:48:15.570183 2023] [mpm_winnt:notice] [pid 4116:tid 344] AH00430: Parent: Child process 16464 exited successfully.
+[Thu Jul 13 22:48:16.323780 2023] [mpm_winnt:notice] [pid 15600:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 13 22:48:16.323780 2023] [mpm_winnt:notice] [pid 15600:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 13 22:48:16.323780 2023] [core:notice] [pid 15600:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 13 22:48:16.330733 2023] [mpm_winnt:notice] [pid 15600:tid 328] AH00418: Parent: Created child process 9160
+[Thu Jul 13 22:48:16.621844 2023] [mpm_winnt:notice] [pid 9160:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 13 22:50:27.497594 2023] [mpm_winnt:notice] [pid 15600:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 13 22:50:29.518530 2023] [mpm_winnt:notice] [pid 9160:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jul 13 22:50:29.583969 2023] [mpm_winnt:notice] [pid 15600:tid 328] AH00430: Parent: Child process 9160 exited successfully.
+[Thu Jul 13 22:51:19.922978 2023] [mpm_winnt:notice] [pid 16428:tid 360] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 13 22:51:19.922978 2023] [mpm_winnt:notice] [pid 16428:tid 360] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 13 22:51:19.922978 2023] [core:notice] [pid 16428:tid 360] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 13 22:51:19.927582 2023] [mpm_winnt:notice] [pid 16428:tid 360] AH00418: Parent: Created child process 19236
+[Thu Jul 13 22:51:20.177819 2023] [mpm_winnt:notice] [pid 19236:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 13 23:53:59.241362 2023] [mpm_winnt:notice] [pid 16428:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 13 23:54:01.273233 2023] [mpm_winnt:notice] [pid 19236:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jul 13 23:54:01.288856 2023] [mpm_winnt:notice] [pid 16428:tid 360] AH00430: Parent: Child process 19236 exited successfully.
+[Fri Jul 14 08:21:49.617674 2023] [mpm_winnt:notice] [pid 4368:tid 292] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Jul 14 08:21:49.619696 2023] [mpm_winnt:notice] [pid 4368:tid 292] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Jul 14 08:21:49.619696 2023] [core:notice] [pid 4368:tid 292] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Jul 14 08:21:49.636760 2023] [mpm_winnt:notice] [pid 4368:tid 292] AH00418: Parent: Created child process 6948
+[Fri Jul 14 08:21:52.050230 2023] [mpm_winnt:notice] [pid 6948:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 14 11:18:10.148061 2023] [mpm_winnt:notice] [pid 4368:tid 292] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 14 11:18:12.195370 2023] [mpm_winnt:notice] [pid 6948:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Jul 14 11:18:12.226622 2023] [mpm_winnt:notice] [pid 4368:tid 292] AH00430: Parent: Child process 6948 exited successfully.
+[Fri Jul 14 20:43:01.413121 2023] [mpm_winnt:notice] [pid 4396:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Jul 14 20:43:01.413121 2023] [mpm_winnt:notice] [pid 4396:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Jul 14 20:43:01.413121 2023] [core:notice] [pid 4396:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Jul 14 20:43:01.419195 2023] [mpm_winnt:notice] [pid 4396:tid 324] AH00418: Parent: Created child process 7580
+[Fri Jul 14 20:43:03.451768 2023] [mpm_winnt:notice] [pid 7580:tid 336] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 15 00:14:22.774852 2023] [mpm_winnt:notice] [pid 4396:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jul 15 00:14:24.792085 2023] [mpm_winnt:notice] [pid 7580:tid 336] AH00364: Child: All worker threads have exited.
+[Sat Jul 15 00:14:24.823336 2023] [mpm_winnt:notice] [pid 4396:tid 324] AH00430: Parent: Child process 7580 exited successfully.
+[Sat Jul 15 08:59:48.370541 2023] [mpm_winnt:notice] [pid 4660:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Jul 15 08:59:48.374540 2023] [mpm_winnt:notice] [pid 4660:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Jul 15 08:59:48.374540 2023] [core:notice] [pid 4660:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Jul 15 08:59:48.391664 2023] [mpm_winnt:notice] [pid 4660:tid 320] AH00418: Parent: Created child process 7396
+[Sat Jul 15 08:59:50.465905 2023] [mpm_winnt:notice] [pid 7396:tid 348] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 15 11:12:17.120391 2023] [mpm_winnt:notice] [pid 4660:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jul 15 11:12:19.136688 2023] [mpm_winnt:notice] [pid 7396:tid 348] AH00364: Child: All worker threads have exited.
+[Sat Jul 15 11:12:19.167940 2023] [mpm_winnt:notice] [pid 4660:tid 320] AH00430: Parent: Child process 7396 exited successfully.
+[Sat Jul 15 15:21:52.024866 2023] [mpm_winnt:notice] [pid 4368:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Jul 15 15:21:52.026373 2023] [mpm_winnt:notice] [pid 4368:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Jul 15 15:21:52.026373 2023] [core:notice] [pid 4368:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Jul 15 15:21:52.030401 2023] [mpm_winnt:notice] [pid 4368:tid 324] AH00418: Parent: Created child process 7488
+[Sat Jul 15 15:21:53.813513 2023] [mpm_winnt:notice] [pid 7488:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 15 23:07:12.663212 2023] [mpm_winnt:notice] [pid 4368:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jul 15 23:07:14.726130 2023] [mpm_winnt:notice] [pid 7488:tid 340] AH00364: Child: All worker threads have exited.
+[Sat Jul 15 23:07:14.757380 2023] [mpm_winnt:notice] [pid 4368:tid 324] AH00430: Parent: Child process 7488 exited successfully.
+[Sun Jul 16 09:21:44.525480 2023] [mpm_winnt:notice] [pid 4368:tid 156] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Jul 16 09:21:44.525480 2023] [mpm_winnt:notice] [pid 4368:tid 156] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Jul 16 09:21:44.525480 2023] [core:notice] [pid 4368:tid 156] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Jul 16 09:21:44.535699 2023] [mpm_winnt:notice] [pid 4368:tid 156] AH00418: Parent: Created child process 7480
+[Sun Jul 16 09:21:46.287712 2023] [mpm_winnt:notice] [pid 7480:tid 344] AH00354: Child: Starting 64 worker threads.
+[Sun Jul 16 11:22:22.898056 2023] [mpm_winnt:notice] [pid 4368:tid 156] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jul 16 11:22:24.961371 2023] [mpm_winnt:notice] [pid 7480:tid 344] AH00364: Child: All worker threads have exited.
+[Sun Jul 16 11:22:24.992623 2023] [mpm_winnt:notice] [pid 4368:tid 156] AH00430: Parent: Child process 7480 exited successfully.
+[Sun Jul 16 14:26:20.186383 2023] [mpm_winnt:notice] [pid 4508:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Jul 16 14:26:20.187393 2023] [mpm_winnt:notice] [pid 4508:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Jul 16 14:26:20.187393 2023] [core:notice] [pid 4508:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Jul 16 14:26:20.189400 2023] [mpm_winnt:notice] [pid 4508:tid 328] AH00418: Parent: Created child process 7496
+[Sun Jul 16 14:26:22.026371 2023] [mpm_winnt:notice] [pid 7496:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 17 01:30:25.272571 2023] [mpm_winnt:notice] [pid 4508:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 17 01:30:27.320992 2023] [mpm_winnt:notice] [pid 7496:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Jul 17 01:30:27.352245 2023] [mpm_winnt:notice] [pid 4508:tid 328] AH00430: Parent: Child process 7496 exited successfully.
+[Mon Jul 17 10:43:53.704774 2023] [mpm_winnt:notice] [pid 5164:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 17 10:43:53.712771 2023] [mpm_winnt:notice] [pid 5164:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 17 10:43:53.712771 2023] [core:notice] [pid 5164:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 17 10:43:53.718769 2023] [mpm_winnt:notice] [pid 5164:tid 328] AH00418: Parent: Created child process 8672
+[Mon Jul 17 10:43:54.994763 2023] [mpm_winnt:notice] [pid 8672:tid 340] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 17 11:20:34.377285 2023] [mpm_winnt:notice] [pid 5164:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 17 11:20:36.408535 2023] [mpm_winnt:notice] [pid 8672:tid 340] AH00364: Child: All worker threads have exited.
+[Mon Jul 17 11:20:36.439783 2023] [mpm_winnt:notice] [pid 5164:tid 328] AH00430: Parent: Child process 8672 exited successfully.
+[Mon Jul 17 14:25:33.281552 2023] [mpm_winnt:notice] [pid 4504:tid 340] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 17 14:25:33.281552 2023] [mpm_winnt:notice] [pid 4504:tid 340] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 17 14:25:33.286579 2023] [core:notice] [pid 4504:tid 340] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 17 14:25:33.316254 2023] [mpm_winnt:notice] [pid 4504:tid 340] AH00418: Parent: Created child process 7304
+[Mon Jul 17 14:25:35.220326 2023] [mpm_winnt:notice] [pid 7304:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 17 17:15:40.686697 2023] [mpm_winnt:notice] [pid 4504:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 17 17:15:42.718784 2023] [mpm_winnt:notice] [pid 7304:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Jul 17 17:15:42.765654 2023] [mpm_winnt:notice] [pid 4504:tid 340] AH00430: Parent: Child process 7304 exited successfully.
+[Mon Jul 17 21:32:29.112952 2023] [mpm_winnt:notice] [pid 4628:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 17 21:32:29.114957 2023] [mpm_winnt:notice] [pid 4628:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 17 21:32:29.114957 2023] [core:notice] [pid 4628:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 17 21:32:29.119952 2023] [mpm_winnt:notice] [pid 4628:tid 324] AH00418: Parent: Created child process 7452
+[Mon Jul 17 21:32:30.809064 2023] [mpm_winnt:notice] [pid 7452:tid 340] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 18 00:12:06.985835 2023] [mpm_winnt:notice] [pid 4628:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 18 00:12:09.001883 2023] [mpm_winnt:notice] [pid 7452:tid 340] AH00364: Child: All worker threads have exited.
+[Tue Jul 18 00:12:09.048720 2023] [mpm_winnt:notice] [pid 4628:tid 324] AH00430: Parent: Child process 7452 exited successfully.
+[Tue Jul 18 07:23:15.806980 2023] [mpm_winnt:notice] [pid 4420:tid 336] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Jul 18 07:23:15.808995 2023] [mpm_winnt:notice] [pid 4420:tid 336] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Jul 18 07:23:15.808995 2023] [core:notice] [pid 4420:tid 336] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Jul 18 07:23:15.818525 2023] [mpm_winnt:notice] [pid 4420:tid 336] AH00418: Parent: Created child process 7480
+[Tue Jul 18 07:23:18.220887 2023] [mpm_winnt:notice] [pid 7480:tid 332] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 19 00:01:05.662175 2023] [mpm_winnt:notice] [pid 4420:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 19 00:01:07.709254 2023] [mpm_winnt:notice] [pid 7480:tid 332] AH00364: Child: All worker threads have exited.
+[Wed Jul 19 00:01:07.756129 2023] [mpm_winnt:notice] [pid 4420:tid 336] AH00430: Parent: Child process 7480 exited successfully.
+[Wed Jul 19 11:25:45.590070 2023] [mpm_winnt:notice] [pid 5032:tid 336] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Jul 19 11:25:45.594087 2023] [mpm_winnt:notice] [pid 5032:tid 336] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Jul 19 11:25:45.594087 2023] [core:notice] [pid 5032:tid 336] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Jul 19 11:25:45.599183 2023] [mpm_winnt:notice] [pid 5032:tid 336] AH00418: Parent: Created child process 7892
+[Wed Jul 19 11:25:46.868822 2023] [mpm_winnt:notice] [pid 7892:tid 360] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 19 17:51:45.385235 2023] [mpm_winnt:notice] [pid 5032:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 19 17:51:47.448144 2023] [mpm_winnt:notice] [pid 7892:tid 360] AH00364: Child: All worker threads have exited.
+[Wed Jul 19 17:51:47.495020 2023] [mpm_winnt:notice] [pid 5032:tid 336] AH00430: Parent: Child process 7892 exited successfully.
+[Wed Jul 19 21:56:52.258475 2023] [mpm_winnt:notice] [pid 5044:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Jul 19 21:56:52.260476 2023] [mpm_winnt:notice] [pid 5044:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Jul 19 21:56:52.260476 2023] [core:notice] [pid 5044:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Jul 19 21:56:52.264013 2023] [mpm_winnt:notice] [pid 5044:tid 320] AH00418: Parent: Created child process 7604
+[Wed Jul 19 21:56:53.698734 2023] [mpm_winnt:notice] [pid 7604:tid 336] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 19 23:45:07.084768 2023] [mpm_winnt:notice] [pid 5044:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 19 23:45:09.147686 2023] [mpm_winnt:notice] [pid 7604:tid 336] AH00364: Child: All worker threads have exited.
+[Wed Jul 19 23:45:09.178939 2023] [mpm_winnt:notice] [pid 5044:tid 320] AH00430: Parent: Child process 7604 exited successfully.
+[Thu Jul 20 00:01:48.759185 2023] [mpm_winnt:notice] [pid 4820:tid 236] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 20 00:01:48.759185 2023] [mpm_winnt:notice] [pid 4820:tid 236] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 20 00:01:48.759185 2023] [core:notice] [pid 4820:tid 236] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 20 00:01:48.759185 2023] [mpm_winnt:notice] [pid 4820:tid 236] AH00418: Parent: Created child process 7520
+[Thu Jul 20 00:01:50.188074 2023] [mpm_winnt:notice] [pid 7520:tid 360] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 20 00:18:18.092584 2023] [mpm_winnt:notice] [pid 4820:tid 236] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 20 00:18:20.108608 2023] [mpm_winnt:notice] [pid 7520:tid 360] AH00364: Child: All worker threads have exited.
+[Thu Jul 20 00:18:20.171106 2023] [mpm_winnt:notice] [pid 4820:tid 236] AH00430: Parent: Child process 7520 exited successfully.
+[Thu Jul 20 11:52:05.463978 2023] [mpm_winnt:notice] [pid 4788:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 20 11:52:05.463978 2023] [mpm_winnt:notice] [pid 4788:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 20 11:52:05.463978 2023] [core:notice] [pid 4788:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 20 11:52:05.478956 2023] [mpm_winnt:notice] [pid 4788:tid 332] AH00418: Parent: Created child process 7608
+[Thu Jul 20 11:52:07.185214 2023] [mpm_winnt:notice] [pid 7608:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 20 18:30:50.429401 2023] [mpm_winnt:notice] [pid 4788:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 20 18:30:52.492693 2023] [mpm_winnt:notice] [pid 7608:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jul 20 18:30:52.555205 2023] [mpm_winnt:notice] [pid 4788:tid 332] AH00430: Parent: Child process 7608 exited successfully.
+[Thu Jul 20 19:13:21.396361 2023] [mpm_winnt:notice] [pid 5148:tid 300] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 20 19:13:21.401372 2023] [mpm_winnt:notice] [pid 5148:tid 300] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 20 19:13:21.401372 2023] [core:notice] [pid 5148:tid 300] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 20 19:13:21.406389 2023] [mpm_winnt:notice] [pid 5148:tid 300] AH00418: Parent: Created child process 7764
+[Thu Jul 20 19:13:23.360184 2023] [mpm_winnt:notice] [pid 7764:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 21 00:12:03.711338 2023] [mpm_winnt:notice] [pid 5148:tid 300] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 21 00:12:05.773833 2023] [mpm_winnt:notice] [pid 7764:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Jul 21 00:12:05.805082 2023] [mpm_winnt:notice] [pid 5148:tid 300] AH00430: Parent: Child process 7764 exited successfully.
+[Fri Jul 21 13:57:26.890901 2023] [mpm_winnt:notice] [pid 4584:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Jul 21 13:57:26.891413 2023] [mpm_winnt:notice] [pid 4584:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Jul 21 13:57:26.891413 2023] [core:notice] [pid 4584:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Jul 21 13:57:26.895445 2023] [mpm_winnt:notice] [pid 4584:tid 332] AH00418: Parent: Created child process 7420
+[Fri Jul 21 13:57:28.159165 2023] [mpm_winnt:notice] [pid 7420:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 21 17:41:49.063151 2023] [mpm_winnt:notice] [pid 4584:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 21 17:41:51.126679 2023] [mpm_winnt:notice] [pid 7420:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Jul 21 17:41:51.189178 2023] [mpm_winnt:notice] [pid 4584:tid 332] AH00430: Parent: Child process 7420 exited successfully.
+[Fri Jul 21 21:44:38.963711 2023] [mpm_winnt:notice] [pid 5068:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Jul 21 21:44:38.963711 2023] [mpm_winnt:notice] [pid 5068:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Jul 21 21:44:38.963711 2023] [core:notice] [pid 5068:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Jul 21 21:44:38.970731 2023] [mpm_winnt:notice] [pid 5068:tid 328] AH00418: Parent: Created child process 7832
+[Fri Jul 21 21:44:41.042646 2023] [mpm_winnt:notice] [pid 7832:tid 344] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 22 01:18:23.188934 2023] [mpm_winnt:notice] [pid 5068:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jul 22 01:18:25.267480 2023] [mpm_winnt:notice] [pid 7832:tid 344] AH00364: Child: All worker threads have exited.
+[Sat Jul 22 01:18:25.298730 2023] [mpm_winnt:notice] [pid 5068:tid 328] AH00430: Parent: Child process 7832 exited successfully.
+[Sat Jul 22 09:03:48.674969 2023] [mpm_winnt:notice] [pid 4924:tid 308] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Jul 22 09:03:48.676971 2023] [mpm_winnt:notice] [pid 4924:tid 308] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Jul 22 09:03:48.676971 2023] [core:notice] [pid 4924:tid 308] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Jul 22 09:03:48.679536 2023] [mpm_winnt:notice] [pid 4924:tid 308] AH00418: Parent: Created child process 6960
+[Sat Jul 22 09:03:50.679985 2023] [mpm_winnt:notice] [pid 6960:tid 336] AH00354: Child: Starting 64 worker threads.
+[Sun Jul 23 01:22:40.051086 2023] [mpm_winnt:notice] [pid 4924:tid 308] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jul 23 01:22:42.098592 2023] [mpm_winnt:notice] [pid 6960:tid 336] AH00364: Child: All worker threads have exited.
+[Sun Jul 23 01:22:42.129841 2023] [mpm_winnt:notice] [pid 4924:tid 308] AH00430: Parent: Child process 6960 exited successfully.
+[Sun Jul 23 10:19:43.485965 2023] [mpm_winnt:notice] [pid 5336:tid 340] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Jul 23 10:19:43.486966 2023] [mpm_winnt:notice] [pid 5336:tid 340] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Jul 23 10:19:43.486966 2023] [core:notice] [pid 5336:tid 340] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Jul 23 10:19:43.493492 2023] [mpm_winnt:notice] [pid 5336:tid 340] AH00418: Parent: Created child process 7600
+[Sun Jul 23 10:19:44.904070 2023] [mpm_winnt:notice] [pid 7600:tid 344] AH00354: Child: Starting 64 worker threads.
+[Sun Jul 23 23:31:53.380567 2023] [mpm_winnt:notice] [pid 5336:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jul 23 23:31:55.427850 2023] [mpm_winnt:notice] [pid 7600:tid 344] AH00364: Child: All worker threads have exited.
+[Sun Jul 23 23:31:55.490355 2023] [mpm_winnt:notice] [pid 5336:tid 340] AH00430: Parent: Child process 7600 exited successfully.
+[Mon Jul 24 09:10:06.090396 2023] [mpm_winnt:notice] [pid 4652:tid 316] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 24 09:10:06.091396 2023] [mpm_winnt:notice] [pid 4652:tid 316] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 24 09:10:06.091396 2023] [core:notice] [pid 4652:tid 316] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 24 09:10:06.093903 2023] [mpm_winnt:notice] [pid 4652:tid 316] AH00418: Parent: Created child process 7776
+[Mon Jul 24 09:10:07.941515 2023] [mpm_winnt:notice] [pid 7776:tid 360] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 24 11:26:06.754725 2023] [mpm_winnt:notice] [pid 4652:tid 316] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 24 11:26:08.818056 2023] [mpm_winnt:notice] [pid 7776:tid 360] AH00364: Child: All worker threads have exited.
+[Mon Jul 24 11:26:08.833682 2023] [mpm_winnt:notice] [pid 4652:tid 316] AH00430: Parent: Child process 7776 exited successfully.
+[Mon Jul 24 15:12:00.566446 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 24 15:12:00.566446 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 24 15:12:00.566446 2023] [core:notice] [pid 4372:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 24 15:12:00.571479 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00418: Parent: Created child process 7448
+[Mon Jul 24 15:12:02.042803 2023] [mpm_winnt:notice] [pid 7448:tid 352] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 24 18:09:02.194586 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 24 18:09:04.242288 2023] [mpm_winnt:notice] [pid 7448:tid 352] AH00364: Child: All worker threads have exited.
+[Mon Jul 24 18:09:04.273536 2023] [mpm_winnt:notice] [pid 4372:tid 324] AH00430: Parent: Child process 7448 exited successfully.
+[Mon Jul 24 21:34:31.077969 2023] [mpm_winnt:notice] [pid 4620:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 24 21:34:31.078973 2023] [mpm_winnt:notice] [pid 4620:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 24 21:34:31.078973 2023] [core:notice] [pid 4620:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 24 21:34:31.082504 2023] [mpm_winnt:notice] [pid 4620:tid 332] AH00418: Parent: Created child process 8056
+[Mon Jul 24 21:34:32.430206 2023] [mpm_winnt:notice] [pid 8056:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 25 02:31:11.896366 2023] [mpm_winnt:notice] [pid 4620:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 25 02:31:14.146360 2023] [mpm_winnt:notice] [pid 8056:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Jul 25 02:31:14.208862 2023] [mpm_winnt:notice] [pid 4620:tid 332] AH00430: Parent: Child process 8056 exited successfully.
+[Tue Jul 25 12:12:09.179321 2023] [mpm_winnt:notice] [pid 4376:tid 312] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Jul 25 12:12:09.182321 2023] [mpm_winnt:notice] [pid 4376:tid 312] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Jul 25 12:12:09.182321 2023] [core:notice] [pid 4376:tid 312] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Jul 25 12:12:09.187872 2023] [mpm_winnt:notice] [pid 4376:tid 312] AH00418: Parent: Created child process 7592
+[Tue Jul 25 12:12:11.366581 2023] [mpm_winnt:notice] [pid 7592:tid 316] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 26 01:21:26.951573 2023] [mpm_winnt:notice] [pid 4376:tid 312] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 26 01:21:28.983647 2023] [mpm_winnt:notice] [pid 7592:tid 316] AH00364: Child: All worker threads have exited.
+[Wed Jul 26 01:21:29.014897 2023] [mpm_winnt:notice] [pid 4376:tid 312] AH00430: Parent: Child process 7592 exited successfully.
+[Wed Jul 26 09:33:19.722635 2023] [mpm_winnt:notice] [pid 4836:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Jul 26 09:33:19.732150 2023] [mpm_winnt:notice] [pid 4836:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Jul 26 09:33:19.732150 2023] [core:notice] [pid 4836:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Jul 26 09:33:19.748207 2023] [mpm_winnt:notice] [pid 4836:tid 328] AH00418: Parent: Created child process 8060
+[Wed Jul 26 09:33:21.616759 2023] [mpm_winnt:notice] [pid 8060:tid 340] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 26 17:21:26.253846 2023] [mpm_winnt:notice] [pid 4836:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 26 17:21:28.317603 2023] [mpm_winnt:notice] [pid 8060:tid 340] AH00364: Child: All worker threads have exited.
+[Wed Jul 26 17:21:28.364482 2023] [mpm_winnt:notice] [pid 4836:tid 328] AH00430: Parent: Child process 8060 exited successfully.
+[Wed Jul 26 22:01:12.404417 2023] [mpm_winnt:notice] [pid 4636:tid 292] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Jul 26 22:01:12.409434 2023] [mpm_winnt:notice] [pid 4636:tid 292] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Jul 26 22:01:12.409434 2023] [core:notice] [pid 4636:tid 292] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Jul 26 22:01:12.409434 2023] [mpm_winnt:notice] [pid 4636:tid 292] AH00418: Parent: Created child process 7416
+[Wed Jul 26 22:01:14.003306 2023] [mpm_winnt:notice] [pid 7416:tid 340] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 27 00:18:43.445320 2023] [mpm_winnt:notice] [pid 4636:tid 292] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 27 00:18:45.633283 2023] [mpm_winnt:notice] [pid 7416:tid 340] AH00364: Child: All worker threads have exited.
+[Thu Jul 27 00:18:45.945774 2023] [mpm_winnt:notice] [pid 4636:tid 292] AH00430: Parent: Child process 7416 exited successfully.
+[Thu Jul 27 00:21:24.726541 2023] [mpm_winnt:notice] [pid 4520:tid 336] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 27 00:21:24.742484 2023] [mpm_winnt:notice] [pid 4520:tid 336] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 27 00:21:24.742484 2023] [core:notice] [pid 4520:tid 336] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 27 00:21:24.742484 2023] [mpm_winnt:notice] [pid 4520:tid 336] AH00418: Parent: Created child process 6316
+[Thu Jul 27 00:21:25.655800 2023] [mpm_winnt:notice] [pid 6316:tid 360] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 27 00:22:40.190873 2023] [mpm_winnt:notice] [pid 4520:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 27 00:22:42.222157 2023] [mpm_winnt:notice] [pid 6316:tid 360] AH00364: Child: All worker threads have exited.
+[Thu Jul 27 00:22:42.237801 2023] [mpm_winnt:notice] [pid 4520:tid 336] AH00430: Parent: Child process 6316 exited successfully.
+[Thu Jul 27 00:23:28.521765 2023] [mpm_winnt:notice] [pid 4352:tid 340] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 27 00:23:28.526768 2023] [mpm_winnt:notice] [pid 4352:tid 340] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 27 00:23:28.526768 2023] [core:notice] [pid 4352:tid 340] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 27 00:23:28.528766 2023] [mpm_winnt:notice] [pid 4352:tid 340] AH00418: Parent: Created child process 6700
+[Thu Jul 27 00:23:28.919784 2023] [mpm_winnt:notice] [pid 6700:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 27 00:27:34.477252 2023] [mpm_winnt:notice] [pid 4352:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 27 00:27:36.509369 2023] [mpm_winnt:notice] [pid 6700:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jul 27 00:27:36.524992 2023] [mpm_winnt:notice] [pid 4352:tid 340] AH00430: Parent: Child process 6700 exited successfully.
+[Thu Jul 27 07:38:11.912065 2023] [mpm_winnt:notice] [pid 4768:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 27 07:38:11.913588 2023] [mpm_winnt:notice] [pid 4768:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 27 07:38:11.913588 2023] [core:notice] [pid 4768:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 27 07:38:11.916602 2023] [mpm_winnt:notice] [pid 4768:tid 324] AH00418: Parent: Created child process 7440
+[Thu Jul 27 07:38:14.078177 2023] [mpm_winnt:notice] [pid 7440:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 27 08:30:39.318933 2023] [mpm_winnt:notice] [pid 4768:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 27 08:30:41.490801 2023] [mpm_winnt:notice] [pid 7440:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Jul 27 08:30:41.537681 2023] [mpm_winnt:notice] [pid 4768:tid 324] AH00430: Parent: Child process 7440 exited successfully.
+[Thu Jul 27 10:35:50.472382 2023] [mpm_winnt:notice] [pid 5104:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Jul 27 10:35:50.476898 2023] [mpm_winnt:notice] [pid 5104:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Jul 27 10:35:50.476898 2023] [core:notice] [pid 5104:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Jul 27 10:35:50.476898 2023] [mpm_winnt:notice] [pid 5104:tid 320] AH00418: Parent: Created child process 7968
+[Thu Jul 27 10:35:52.420571 2023] [mpm_winnt:notice] [pid 7968:tid 372] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 28 00:11:30.545272 2023] [mpm_winnt:notice] [pid 5104:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 28 00:11:32.592826 2023] [mpm_winnt:notice] [pid 7968:tid 372] AH00364: Child: All worker threads have exited.
+[Fri Jul 28 00:11:32.655331 2023] [mpm_winnt:notice] [pid 5104:tid 320] AH00430: Parent: Child process 7968 exited successfully.
+[Fri Jul 28 08:57:59.553439 2023] [mpm_winnt:notice] [pid 5360:tid 316] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Jul 28 08:57:59.556464 2023] [mpm_winnt:notice] [pid 5360:tid 316] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Jul 28 08:57:59.556464 2023] [core:notice] [pid 5360:tid 316] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Jul 28 08:57:59.610685 2023] [mpm_winnt:notice] [pid 5360:tid 316] AH00418: Parent: Created child process 7612
+[Fri Jul 28 08:58:01.547071 2023] [mpm_winnt:notice] [pid 7612:tid 360] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 28 17:04:13.210725 2023] [mpm_winnt:notice] [pid 5360:tid 316] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 28 17:04:15.273658 2023] [mpm_winnt:notice] [pid 7612:tid 360] AH00364: Child: All worker threads have exited.
+[Fri Jul 28 17:04:15.304904 2023] [mpm_winnt:notice] [pid 5360:tid 316] AH00430: Parent: Child process 7612 exited successfully.
+[Fri Jul 28 20:28:31.872897 2023] [mpm_winnt:notice] [pid 5228:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Jul 28 20:28:31.874898 2023] [mpm_winnt:notice] [pid 5228:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Jul 28 20:28:31.874898 2023] [core:notice] [pid 5228:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Jul 28 20:28:31.876410 2023] [mpm_winnt:notice] [pid 5228:tid 320] AH00418: Parent: Created child process 8100
+[Fri Jul 28 20:28:33.582959 2023] [mpm_winnt:notice] [pid 8100:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 29 00:37:04.452936 2023] [mpm_winnt:notice] [pid 5228:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jul 29 00:37:06.485096 2023] [mpm_winnt:notice] [pid 8100:tid 340] AH00364: Child: All worker threads have exited.
+[Sat Jul 29 00:37:06.531971 2023] [mpm_winnt:notice] [pid 5228:tid 320] AH00430: Parent: Child process 8100 exited successfully.
+[Sat Jul 29 06:44:30.702265 2023] [mpm_winnt:notice] [pid 4728:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Jul 29 06:44:30.702265 2023] [mpm_winnt:notice] [pid 4728:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Jul 29 06:44:30.702265 2023] [core:notice] [pid 4728:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Jul 29 06:44:30.705794 2023] [mpm_winnt:notice] [pid 4728:tid 324] AH00418: Parent: Created child process 7568
+[Sat Jul 29 06:44:32.742176 2023] [mpm_winnt:notice] [pid 7568:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sun Jul 30 00:35:03.022253 2023] [mpm_winnt:notice] [pid 4728:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jul 30 00:35:05.069946 2023] [mpm_winnt:notice] [pid 7568:tid 340] AH00364: Child: All worker threads have exited.
+[Sun Jul 30 00:35:05.116824 2023] [mpm_winnt:notice] [pid 4728:tid 324] AH00430: Parent: Child process 7568 exited successfully.
+[Sun Jul 30 09:10:26.756301 2023] [mpm_winnt:notice] [pid 5364:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Jul 30 09:10:26.756301 2023] [mpm_winnt:notice] [pid 5364:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Jul 30 09:10:26.756301 2023] [core:notice] [pid 5364:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Jul 30 09:10:26.759829 2023] [mpm_winnt:notice] [pid 5364:tid 320] AH00418: Parent: Created child process 7692
+[Sun Jul 30 09:10:28.763301 2023] [mpm_winnt:notice] [pid 7692:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 31 00:07:39.153998 2023] [mpm_winnt:notice] [pid 5364:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 31 00:07:41.232623 2023] [mpm_winnt:notice] [pid 7692:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 31 00:07:41.279499 2023] [mpm_winnt:notice] [pid 5364:tid 320] AH00430: Parent: Child process 7692 exited successfully.
+[Mon Jul 31 09:24:51.310822 2023] [mpm_winnt:notice] [pid 5172:tid 160] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 31 09:24:51.313843 2023] [mpm_winnt:notice] [pid 5172:tid 160] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 31 09:24:51.313843 2023] [core:notice] [pid 5172:tid 160] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 31 09:24:51.320355 2023] [mpm_winnt:notice] [pid 5172:tid 160] AH00418: Parent: Created child process 8164
+[Mon Jul 31 09:24:52.937569 2023] [mpm_winnt:notice] [pid 8164:tid 360] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 31 12:40:01.054310 2023] [mpm_winnt:notice] [pid 5172:tid 160] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 31 12:40:03.086387 2023] [mpm_winnt:notice] [pid 8164:tid 360] AH00364: Child: All worker threads have exited.
+[Mon Jul 31 12:40:03.117651 2023] [mpm_winnt:notice] [pid 5172:tid 160] AH00430: Parent: Child process 8164 exited successfully.
+[Mon Jul 31 13:34:25.744044 2023] [mpm_winnt:notice] [pid 5116:tid 180] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 31 13:34:25.745042 2023] [mpm_winnt:notice] [pid 5116:tid 180] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 31 13:34:25.745042 2023] [core:notice] [pid 5116:tid 180] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 31 13:34:25.747034 2023] [mpm_winnt:notice] [pid 5116:tid 180] AH00418: Parent: Created child process 7568
+[Mon Jul 31 13:34:27.077902 2023] [mpm_winnt:notice] [pid 7568:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 31 14:18:37.772725 2023] [mpm_winnt:notice] [pid 5116:tid 180] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 31 14:18:39.812926 2023] [mpm_winnt:notice] [pid 7568:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Jul 31 14:18:39.859802 2023] [mpm_winnt:notice] [pid 5116:tid 180] AH00430: Parent: Child process 7568 exited successfully.
+[Mon Jul 31 14:45:18.602485 2023] [mpm_winnt:notice] [pid 4772:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 31 14:45:18.602485 2023] [mpm_winnt:notice] [pid 4772:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 31 14:45:18.602485 2023] [core:notice] [pid 4772:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 31 14:45:18.602485 2023] [mpm_winnt:notice] [pid 4772:tid 320] AH00418: Parent: Created child process 7768
+[Mon Jul 31 14:45:20.519026 2023] [mpm_winnt:notice] [pid 7768:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 31 15:11:21.812704 2023] [mpm_winnt:notice] [pid 4772:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 31 15:11:24.015829 2023] [mpm_winnt:notice] [pid 7768:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Jul 31 15:11:24.078329 2023] [mpm_winnt:notice] [pid 4772:tid 320] AH00430: Parent: Child process 7768 exited successfully.
+[Mon Jul 31 21:44:00.623466 2023] [mpm_winnt:notice] [pid 4516:tid 336] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Jul 31 21:44:00.628480 2023] [mpm_winnt:notice] [pid 4516:tid 336] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Jul 31 21:44:00.628480 2023] [core:notice] [pid 4516:tid 336] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Jul 31 21:44:00.628480 2023] [mpm_winnt:notice] [pid 4516:tid 336] AH00418: Parent: Created child process 7588
+[Mon Jul 31 21:44:02.832446 2023] [mpm_winnt:notice] [pid 7588:tid 344] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 01 00:16:31.788514 2023] [mpm_winnt:notice] [pid 4516:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 01 00:16:33.821013 2023] [mpm_winnt:notice] [pid 7588:tid 344] AH00364: Child: All worker threads have exited.
+[Tue Aug 01 00:16:33.883515 2023] [mpm_winnt:notice] [pid 4516:tid 336] AH00430: Parent: Child process 7588 exited successfully.
+[Tue Aug 01 08:51:53.956032 2023] [mpm_winnt:notice] [pid 5484:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Aug 01 08:51:53.956032 2023] [mpm_winnt:notice] [pid 5484:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Aug 01 08:51:53.956032 2023] [core:notice] [pid 5484:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Aug 01 08:51:53.956032 2023] [mpm_winnt:notice] [pid 5484:tid 320] AH00418: Parent: Created child process 7504
+[Tue Aug 01 08:51:55.977624 2023] [mpm_winnt:notice] [pid 7504:tid 344] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 02 00:22:58.057568 2023] [mpm_winnt:notice] [pid 5484:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 02 00:23:00.120491 2023] [mpm_winnt:notice] [pid 7504:tid 344] AH00364: Child: All worker threads have exited.
+[Wed Aug 02 00:23:00.167366 2023] [mpm_winnt:notice] [pid 5484:tid 320] AH00430: Parent: Child process 7504 exited successfully.
+[Wed Aug 02 09:54:19.914681 2023] [mpm_winnt:notice] [pid 5144:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 02 09:54:19.915687 2023] [mpm_winnt:notice] [pid 5144:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 02 09:54:19.916684 2023] [core:notice] [pid 5144:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 02 09:54:19.918688 2023] [mpm_winnt:notice] [pid 5144:tid 324] AH00418: Parent: Created child process 7624
+[Wed Aug 02 09:54:21.863672 2023] [mpm_winnt:notice] [pid 7624:tid 144] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 02 14:47:31.157079 2023] [mpm_winnt:notice] [pid 5144:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 02 14:47:33.205182 2023] [mpm_winnt:notice] [pid 7624:tid 144] AH00364: Child: All worker threads have exited.
+[Wed Aug 02 14:47:33.267681 2023] [mpm_winnt:notice] [pid 5144:tid 324] AH00430: Parent: Child process 7624 exited successfully.
+[Wed Aug 02 15:09:12.629604 2023] [mpm_winnt:notice] [pid 4828:tid 172] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 02 15:09:12.633617 2023] [mpm_winnt:notice] [pid 4828:tid 172] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 02 15:09:12.633617 2023] [core:notice] [pid 4828:tid 172] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 02 15:09:12.633617 2023] [mpm_winnt:notice] [pid 4828:tid 172] AH00418: Parent: Created child process 7440
+[Wed Aug 02 15:09:14.351136 2023] [mpm_winnt:notice] [pid 7440:tid 336] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 02 17:14:36.329081 2023] [mpm_winnt:notice] [pid 4828:tid 172] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 02 17:14:38.409238 2023] [mpm_winnt:notice] [pid 7440:tid 336] AH00364: Child: All worker threads have exited.
+[Wed Aug 02 17:14:38.440488 2023] [mpm_winnt:notice] [pid 4828:tid 172] AH00430: Parent: Child process 7440 exited successfully.
+[Wed Aug 02 21:34:50.285387 2023] [mpm_winnt:notice] [pid 4840:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 02 21:34:50.287399 2023] [mpm_winnt:notice] [pid 4840:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 02 21:34:50.287399 2023] [core:notice] [pid 4840:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 02 21:34:50.291399 2023] [mpm_winnt:notice] [pid 4840:tid 320] AH00418: Parent: Created child process 8056
+[Wed Aug 02 21:34:51.141867 2023] [mpm_winnt:notice] [pid 8056:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 03 01:53:18.141874 2023] [mpm_winnt:notice] [pid 4840:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 03 01:53:20.205201 2023] [mpm_winnt:notice] [pid 8056:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 03 01:53:20.236450 2023] [mpm_winnt:notice] [pid 4840:tid 320] AH00430: Parent: Child process 8056 exited successfully.
+[Thu Aug 03 08:57:48.711457 2023] [mpm_winnt:notice] [pid 4324:tid 148] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Aug 03 08:57:48.712469 2023] [mpm_winnt:notice] [pid 4324:tid 148] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Aug 03 08:57:48.712469 2023] [core:notice] [pid 4324:tid 148] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Aug 03 08:57:48.715479 2023] [mpm_winnt:notice] [pid 4324:tid 148] AH00418: Parent: Created child process 6492
+[Thu Aug 03 08:57:50.583621 2023] [mpm_winnt:notice] [pid 6492:tid 312] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 04 08:14:09.389889 2023] [mpm_winnt:notice] [pid 4324:tid 148] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 04 08:14:11.468452 2023] [mpm_winnt:notice] [pid 6492:tid 312] AH00364: Child: All worker threads have exited.
+[Fri Aug 04 08:14:11.530950 2023] [mpm_winnt:notice] [pid 4324:tid 148] AH00430: Parent: Child process 6492 exited successfully.
+[Fri Aug 04 11:30:53.962551 2023] [mpm_winnt:notice] [pid 4336:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Aug 04 11:30:53.972597 2023] [mpm_winnt:notice] [pid 4336:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Aug 04 11:30:53.972597 2023] [core:notice] [pid 4336:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Aug 04 11:30:54.002826 2023] [mpm_winnt:notice] [pid 4336:tid 320] AH00418: Parent: Created child process 7652
+[Fri Aug 04 11:30:56.025176 2023] [mpm_winnt:notice] [pid 7652:tid 340] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 04 18:04:57.589695 2023] [mpm_winnt:notice] [pid 4336:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 04 18:04:59.652635 2023] [mpm_winnt:notice] [pid 7652:tid 340] AH00364: Child: All worker threads have exited.
+[Fri Aug 04 18:04:59.683887 2023] [mpm_winnt:notice] [pid 4336:tid 320] AH00430: Parent: Child process 7652 exited successfully.
+[Fri Aug 04 21:35:41.549591 2023] [mpm_winnt:notice] [pid 4748:tid 64] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Aug 04 21:35:41.553605 2023] [mpm_winnt:notice] [pid 4748:tid 64] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Aug 04 21:35:41.553605 2023] [core:notice] [pid 4748:tid 64] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Aug 04 21:35:41.558133 2023] [mpm_winnt:notice] [pid 4748:tid 64] AH00418: Parent: Created child process 8188
+[Fri Aug 04 21:35:43.533104 2023] [mpm_winnt:notice] [pid 8188:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 04 23:50:50.295660 2023] [mpm_winnt:notice] [pid 4748:tid 64] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 04 23:50:52.375419 2023] [mpm_winnt:notice] [pid 8188:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Aug 04 23:50:52.406670 2023] [mpm_winnt:notice] [pid 4748:tid 64] AH00430: Parent: Child process 8188 exited successfully.
+[Sat Aug 05 10:24:51.409414 2023] [mpm_winnt:notice] [pid 4676:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Aug 05 10:24:51.411939 2023] [mpm_winnt:notice] [pid 4676:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Aug 05 10:24:51.411939 2023] [core:notice] [pid 4676:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Aug 05 10:24:51.417950 2023] [mpm_winnt:notice] [pid 4676:tid 332] AH00418: Parent: Created child process 7552
+[Sat Aug 05 10:24:53.510211 2023] [mpm_winnt:notice] [pid 7552:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 05 19:41:29.159619 2023] [mpm_winnt:notice] [pid 4676:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 05 19:41:31.238488 2023] [mpm_winnt:notice] [pid 7552:tid 340] AH00364: Child: All worker threads have exited.
+[Sat Aug 05 19:41:31.285362 2023] [mpm_winnt:notice] [pid 4676:tid 332] AH00430: Parent: Child process 7552 exited successfully.
+[Sat Aug 05 20:30:28.440272 2023] [mpm_winnt:notice] [pid 4940:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Aug 05 20:30:28.442272 2023] [mpm_winnt:notice] [pid 4940:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Aug 05 20:30:28.442272 2023] [core:notice] [pid 4940:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Aug 05 20:30:28.445800 2023] [mpm_winnt:notice] [pid 4940:tid 320] AH00418: Parent: Created child process 7448
+[Sat Aug 05 20:30:29.854523 2023] [mpm_winnt:notice] [pid 7448:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 06 00:52:53.107085 2023] [mpm_winnt:notice] [pid 4940:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 06 00:52:55.139157 2023] [mpm_winnt:notice] [pid 7448:tid 340] AH00364: Child: All worker threads have exited.
+[Sun Aug 06 00:52:55.170407 2023] [mpm_winnt:notice] [pid 4940:tid 320] AH00430: Parent: Child process 7448 exited successfully.
+[Sun Aug 06 10:49:06.766836 2023] [mpm_winnt:notice] [pid 4612:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Aug 06 10:49:06.769374 2023] [mpm_winnt:notice] [pid 4612:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Aug 06 10:49:06.769374 2023] [core:notice] [pid 4612:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Aug 06 10:49:06.772383 2023] [mpm_winnt:notice] [pid 4612:tid 328] AH00418: Parent: Created child process 7764
+[Sun Aug 06 10:49:08.964953 2023] [mpm_winnt:notice] [pid 7764:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 07 00:24:25.670999 2023] [mpm_winnt:notice] [pid 4612:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 07 00:24:27.703096 2023] [mpm_winnt:notice] [pid 7764:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Aug 07 00:24:27.781232 2023] [mpm_winnt:notice] [pid 4612:tid 328] AH00430: Parent: Child process 7764 exited successfully.
+[Mon Aug 07 09:35:09.194074 2023] [mpm_winnt:notice] [pid 4504:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 07 09:35:09.195086 2023] [mpm_winnt:notice] [pid 4504:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 07 09:35:09.195086 2023] [core:notice] [pid 4504:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 07 09:35:09.197095 2023] [mpm_winnt:notice] [pid 4504:tid 324] AH00418: Parent: Created child process 7428
+[Mon Aug 07 09:35:10.286109 2023] [mpm_winnt:notice] [pid 7428:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 07 16:28:08.868388 2023] [mpm_winnt:notice] [pid 4504:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 07 16:28:10.931742 2023] [mpm_winnt:notice] [pid 7428:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Aug 07 16:28:10.978615 2023] [mpm_winnt:notice] [pid 4504:tid 324] AH00430: Parent: Child process 7428 exited successfully.
+[Mon Aug 07 21:36:10.199624 2023] [mpm_winnt:notice] [pid 5272:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 07 21:36:10.200625 2023] [mpm_winnt:notice] [pid 5272:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 07 21:36:10.200625 2023] [core:notice] [pid 5272:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 07 21:36:10.204158 2023] [mpm_winnt:notice] [pid 5272:tid 324] AH00418: Parent: Created child process 8028
+[Mon Aug 07 21:36:11.698414 2023] [mpm_winnt:notice] [pid 8028:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 08 00:37:26.726744 2023] [mpm_winnt:notice] [pid 5272:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 08 00:37:28.789153 2023] [mpm_winnt:notice] [pid 8028:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Aug 08 00:37:28.820400 2023] [mpm_winnt:notice] [pid 5272:tid 324] AH00430: Parent: Child process 8028 exited successfully.
+[Tue Aug 08 10:30:18.084824 2023] [mpm_winnt:notice] [pid 4848:tid 356] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Aug 08 10:30:18.084824 2023] [mpm_winnt:notice] [pid 4848:tid 356] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Aug 08 10:30:18.084824 2023] [core:notice] [pid 4848:tid 356] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Aug 08 10:30:18.087874 2023] [mpm_winnt:notice] [pid 4848:tid 356] AH00418: Parent: Created child process 8012
+[Tue Aug 08 10:30:19.896513 2023] [mpm_winnt:notice] [pid 8012:tid 336] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 09 00:33:31.601380 2023] [mpm_winnt:notice] [pid 4848:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 09 00:33:33.664163 2023] [mpm_winnt:notice] [pid 8012:tid 336] AH00364: Child: All worker threads have exited.
+[Wed Aug 09 00:33:33.711039 2023] [mpm_winnt:notice] [pid 4848:tid 356] AH00430: Parent: Child process 8012 exited successfully.
+[Wed Aug 09 07:56:01.436616 2023] [mpm_winnt:notice] [pid 5640:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 09 07:56:01.436616 2023] [mpm_winnt:notice] [pid 5640:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 09 07:56:01.436616 2023] [core:notice] [pid 5640:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 09 07:56:01.441630 2023] [mpm_winnt:notice] [pid 5640:tid 324] AH00418: Parent: Created child process 7940
+[Wed Aug 09 07:56:03.748701 2023] [mpm_winnt:notice] [pid 7940:tid 360] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 09 13:31:18.364114 2023] [mpm_winnt:notice] [pid 5640:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 09 13:31:20.457862 2023] [mpm_winnt:notice] [pid 7940:tid 360] AH00364: Child: All worker threads have exited.
+[Wed Aug 09 13:31:20.520755 2023] [mpm_winnt:notice] [pid 5640:tid 324] AH00430: Parent: Child process 7940 exited successfully.
+[Wed Aug 09 16:48:24.992121 2023] [mpm_winnt:notice] [pid 4988:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 09 16:48:24.994121 2023] [mpm_winnt:notice] [pid 4988:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 09 16:48:24.994121 2023] [core:notice] [pid 4988:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 09 16:48:24.997122 2023] [mpm_winnt:notice] [pid 4988:tid 328] AH00418: Parent: Created child process 7312
+[Wed Aug 09 16:48:26.773452 2023] [mpm_winnt:notice] [pid 7312:tid 356] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 09 17:57:38.280950 2023] [mpm_winnt:notice] [pid 4988:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 09 17:57:40.313402 2023] [mpm_winnt:notice] [pid 7312:tid 356] AH00364: Child: All worker threads have exited.
+[Wed Aug 09 17:57:40.360275 2023] [mpm_winnt:notice] [pid 4988:tid 328] AH00430: Parent: Child process 7312 exited successfully.
+[Wed Aug 09 21:30:04.259421 2023] [mpm_winnt:notice] [pid 4696:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 09 21:30:04.259421 2023] [mpm_winnt:notice] [pid 4696:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 09 21:30:04.259421 2023] [core:notice] [pid 4696:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 09 21:30:04.261943 2023] [mpm_winnt:notice] [pid 4696:tid 324] AH00418: Parent: Created child process 7356
+[Wed Aug 09 21:30:06.757457 2023] [mpm_winnt:notice] [pid 7356:tid 360] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 09 23:10:08.801804 2023] [mpm_winnt:notice] [pid 4696:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 09 23:10:10.834288 2023] [mpm_winnt:notice] [pid 7356:tid 360] AH00364: Child: All worker threads have exited.
+[Wed Aug 09 23:10:10.849916 2023] [mpm_winnt:notice] [pid 4696:tid 324] AH00430: Parent: Child process 7356 exited successfully.
+[Thu Aug 10 17:29:43.454035 2023] [mpm_winnt:notice] [pid 4360:tid 12] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Aug 10 17:29:43.454035 2023] [mpm_winnt:notice] [pid 4360:tid 12] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Aug 10 17:29:43.454035 2023] [core:notice] [pid 4360:tid 12] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Aug 10 17:29:43.463046 2023] [mpm_winnt:notice] [pid 4360:tid 12] AH00418: Parent: Created child process 7336
+[Thu Aug 10 17:29:44.056472 2023] [mpm_winnt:notice] [pid 7336:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 10 17:58:44.411787 2023] [mpm_winnt:notice] [pid 4360:tid 12] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 10 17:58:46.428637 2023] [mpm_winnt:notice] [pid 7336:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 10 17:58:46.444266 2023] [mpm_winnt:notice] [pid 4360:tid 12] AH00430: Parent: Child process 7336 exited successfully.
+[Thu Aug 10 21:20:30.145231 2023] [mpm_winnt:notice] [pid 4548:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Aug 10 21:20:30.146232 2023] [mpm_winnt:notice] [pid 4548:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Aug 10 21:20:30.146232 2023] [core:notice] [pid 4548:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Aug 10 21:20:30.149235 2023] [mpm_winnt:notice] [pid 4548:tid 320] AH00418: Parent: Created child process 6968
+[Thu Aug 10 21:20:32.260732 2023] [mpm_winnt:notice] [pid 6968:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 10 23:15:13.670472 2023] [mpm_winnt:notice] [pid 4548:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 10 23:15:15.687721 2023] [mpm_winnt:notice] [pid 6968:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 10 23:15:15.734599 2023] [mpm_winnt:notice] [pid 4548:tid 320] AH00430: Parent: Child process 6968 exited successfully.
+[Fri Aug 11 22:01:01.334490 2023] [mpm_winnt:notice] [pid 4460:tid 168] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Aug 11 22:01:01.336502 2023] [mpm_winnt:notice] [pid 4460:tid 168] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Aug 11 22:01:01.336502 2023] [core:notice] [pid 4460:tid 168] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Aug 11 22:01:01.340502 2023] [mpm_winnt:notice] [pid 4460:tid 168] AH00418: Parent: Created child process 7612
+[Fri Aug 11 22:01:03.194739 2023] [mpm_winnt:notice] [pid 7612:tid 344] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 11 23:06:00.006556 2023] [mpm_winnt:notice] [pid 4460:tid 168] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 11 23:06:02.038822 2023] [mpm_winnt:notice] [pid 7612:tid 344] AH00364: Child: All worker threads have exited.
+[Fri Aug 11 23:06:02.085695 2023] [mpm_winnt:notice] [pid 4460:tid 168] AH00430: Parent: Child process 7612 exited successfully.
+[Sat Aug 12 21:19:25.614367 2023] [mpm_winnt:notice] [pid 4556:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Aug 12 21:19:25.618418 2023] [mpm_winnt:notice] [pid 4556:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Aug 12 21:19:25.618418 2023] [core:notice] [pid 4556:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Aug 12 21:19:25.618418 2023] [mpm_winnt:notice] [pid 4556:tid 324] AH00418: Parent: Created child process 7136
+[Sat Aug 12 21:19:27.429001 2023] [mpm_winnt:notice] [pid 7136:tid 336] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 12 22:19:55.381141 2023] [mpm_winnt:notice] [pid 4556:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 12 22:19:57.413178 2023] [mpm_winnt:notice] [pid 7136:tid 336] AH00364: Child: All worker threads have exited.
+[Sat Aug 12 22:19:57.444430 2023] [mpm_winnt:notice] [pid 4556:tid 324] AH00430: Parent: Child process 7136 exited successfully.
+[Mon Aug 14 10:48:18.779574 2023] [mpm_winnt:notice] [pid 4388:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 14 10:48:18.781577 2023] [mpm_winnt:notice] [pid 4388:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 14 10:48:18.781577 2023] [core:notice] [pid 4388:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 14 10:48:18.785725 2023] [mpm_winnt:notice] [pid 4388:tid 324] AH00418: Parent: Created child process 6804
+[Mon Aug 14 10:48:20.862282 2023] [mpm_winnt:notice] [pid 6804:tid 184] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 14 11:31:10.555480 2023] [mpm_winnt:notice] [pid 4388:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 14 11:31:12.603194 2023] [mpm_winnt:notice] [pid 6804:tid 184] AH00364: Child: All worker threads have exited.
+[Mon Aug 14 11:31:12.743817 2023] [mpm_winnt:notice] [pid 4388:tid 324] AH00430: Parent: Child process 6804 exited successfully.
+[Mon Aug 14 12:22:24.512815 2023] [mpm_winnt:notice] [pid 4668:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 14 12:22:24.513813 2023] [mpm_winnt:notice] [pid 4668:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 14 12:22:24.513813 2023] [core:notice] [pid 4668:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 14 12:22:24.516810 2023] [mpm_winnt:notice] [pid 4668:tid 320] AH00418: Parent: Created child process 7356
+[Mon Aug 14 12:22:25.932718 2023] [mpm_winnt:notice] [pid 7356:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 14 14:13:38.778269 2023] [mpm_winnt:notice] [pid 4668:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 14 14:13:40.825144 2023] [mpm_winnt:notice] [pid 7356:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Aug 14 14:13:40.856396 2023] [mpm_winnt:notice] [pid 4668:tid 320] AH00430: Parent: Child process 7356 exited successfully.
+[Tue Aug 15 21:19:57.550916 2023] [mpm_winnt:notice] [pid 4300:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Aug 15 21:19:57.552426 2023] [mpm_winnt:notice] [pid 4300:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Aug 15 21:19:57.552426 2023] [core:notice] [pid 4300:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Aug 15 21:19:57.555958 2023] [mpm_winnt:notice] [pid 4300:tid 324] AH00418: Parent: Created child process 7872
+[Tue Aug 15 21:19:59.355055 2023] [mpm_winnt:notice] [pid 7872:tid 344] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 15 22:19:04.976496 2023] [mpm_winnt:notice] [pid 4300:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 15 22:19:07.023811 2023] [mpm_winnt:notice] [pid 7872:tid 344] AH00364: Child: All worker threads have exited.
+[Tue Aug 15 22:19:07.070689 2023] [mpm_winnt:notice] [pid 4300:tid 324] AH00430: Parent: Child process 7872 exited successfully.
+[Wed Aug 16 20:46:15.527938 2023] [mpm_winnt:notice] [pid 4208:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 16 20:46:15.528958 2023] [mpm_winnt:notice] [pid 4208:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 16 20:46:15.528958 2023] [core:notice] [pid 4208:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 16 20:46:15.532960 2023] [mpm_winnt:notice] [pid 4208:tid 324] AH00418: Parent: Created child process 7300
+[Wed Aug 16 20:46:17.309040 2023] [mpm_winnt:notice] [pid 7300:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 17 00:14:40.680424 2023] [mpm_winnt:notice] [pid 4208:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 17 00:14:42.712928 2023] [mpm_winnt:notice] [pid 7300:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 17 00:14:43.087929 2023] [mpm_winnt:notice] [pid 4208:tid 324] AH00430: Parent: Child process 7300 exited successfully.
+[Thu Aug 17 10:17:15.548852 2023] [mpm_winnt:notice] [pid 4136:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Aug 17 10:17:15.549849 2023] [mpm_winnt:notice] [pid 4136:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Aug 17 10:17:15.550863 2023] [core:notice] [pid 4136:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Aug 17 10:17:15.553864 2023] [mpm_winnt:notice] [pid 4136:tid 328] AH00418: Parent: Created child process 7336
+[Thu Aug 17 10:17:17.558199 2023] [mpm_winnt:notice] [pid 7336:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 17 11:23:49.220266 2023] [mpm_winnt:notice] [pid 4136:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 17 11:23:51.252338 2023] [mpm_winnt:notice] [pid 7336:tid 364] AH00364: Child: All worker threads have exited.
+[Thu Aug 17 11:23:51.283587 2023] [mpm_winnt:notice] [pid 4136:tid 328] AH00430: Parent: Child process 7336 exited successfully.
+[Thu Aug 17 15:09:46.001293 2023] [mpm_winnt:notice] [pid 4300:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Aug 17 15:09:46.003307 2023] [mpm_winnt:notice] [pid 4300:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Aug 17 15:09:46.003307 2023] [core:notice] [pid 4300:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Aug 17 15:09:46.007320 2023] [mpm_winnt:notice] [pid 4300:tid 320] AH00418: Parent: Created child process 7520
+[Thu Aug 17 15:09:47.907659 2023] [mpm_winnt:notice] [pid 7520:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 17 23:04:54.856110 2023] [mpm_winnt:notice] [pid 4300:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 17 23:04:56.872156 2023] [mpm_winnt:notice] [pid 7520:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 17 23:04:56.934660 2023] [mpm_winnt:notice] [pid 4300:tid 320] AH00430: Parent: Child process 7520 exited successfully.
+[Fri Aug 18 09:46:02.799254 2023] [mpm_winnt:notice] [pid 4300:tid 180] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Aug 18 09:46:02.800901 2023] [mpm_winnt:notice] [pid 4300:tid 180] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Aug 18 09:46:02.800901 2023] [core:notice] [pid 4300:tid 180] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Aug 18 09:46:02.804792 2023] [mpm_winnt:notice] [pid 4300:tid 180] AH00418: Parent: Created child process 4236
+[Fri Aug 18 09:46:04.619765 2023] [mpm_winnt:notice] [pid 4236:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 18 11:14:32.591572 2023] [mpm_winnt:notice] [pid 4300:tid 180] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 18 11:14:34.638452 2023] [mpm_winnt:notice] [pid 4236:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Aug 18 11:14:34.700952 2023] [mpm_winnt:notice] [pid 4300:tid 180] AH00430: Parent: Child process 4236 exited successfully.
+[Fri Aug 18 13:51:51.724375 2023] [mpm_winnt:notice] [pid 4348:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Aug 18 13:51:51.724375 2023] [mpm_winnt:notice] [pid 4348:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Aug 18 13:51:51.724375 2023] [core:notice] [pid 4348:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Aug 18 13:51:51.729452 2023] [mpm_winnt:notice] [pid 4348:tid 320] AH00418: Parent: Created child process 6800
+[Fri Aug 18 13:51:53.506261 2023] [mpm_winnt:notice] [pid 6800:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 18 17:16:40.013662 2023] [mpm_winnt:notice] [pid 4348:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 18 17:16:42.025005 2023] [mpm_winnt:notice] [pid 6800:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Aug 18 17:16:42.071884 2023] [mpm_winnt:notice] [pid 4348:tid 320] AH00430: Parent: Child process 6800 exited successfully.
+[Sat Aug 19 09:42:22.976045 2023] [mpm_winnt:notice] [pid 4328:tid 356] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Aug 19 09:42:22.976045 2023] [mpm_winnt:notice] [pid 4328:tid 356] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Aug 19 09:42:22.976045 2023] [core:notice] [pid 4328:tid 356] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Aug 19 09:42:22.981061 2023] [mpm_winnt:notice] [pid 4328:tid 356] AH00418: Parent: Created child process 6800
+[Sat Aug 19 09:42:24.860099 2023] [mpm_winnt:notice] [pid 6800:tid 360] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 19 11:11:27.664800 2023] [mpm_winnt:notice] [pid 4328:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 19 11:11:29.712098 2023] [mpm_winnt:notice] [pid 6800:tid 360] AH00364: Child: All worker threads have exited.
+[Sat Aug 19 11:11:29.758977 2023] [mpm_winnt:notice] [pid 4328:tid 356] AH00430: Parent: Child process 6800 exited successfully.
+[Sat Aug 19 14:03:26.064075 2023] [mpm_winnt:notice] [pid 4272:tid 344] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Aug 19 14:03:26.064075 2023] [mpm_winnt:notice] [pid 4272:tid 344] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Aug 19 14:03:26.064075 2023] [core:notice] [pid 4272:tid 344] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Aug 19 14:03:26.069089 2023] [mpm_winnt:notice] [pid 4272:tid 344] AH00418: Parent: Created child process 6964
+[Sat Aug 19 14:03:27.756363 2023] [mpm_winnt:notice] [pid 6964:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 19 23:47:10.929351 2023] [mpm_winnt:notice] [pid 4272:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 19 23:47:12.977071 2023] [mpm_winnt:notice] [pid 6964:tid 340] AH00364: Child: All worker threads have exited.
+[Sat Aug 19 23:47:13.008323 2023] [mpm_winnt:notice] [pid 4272:tid 344] AH00430: Parent: Child process 6964 exited successfully.
+[Sun Aug 20 09:34:52.383117 2023] [mpm_winnt:notice] [pid 4484:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Aug 20 09:34:52.388169 2023] [mpm_winnt:notice] [pid 4484:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Aug 20 09:34:52.388169 2023] [core:notice] [pid 4484:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Aug 20 09:34:52.388169 2023] [mpm_winnt:notice] [pid 4484:tid 328] AH00418: Parent: Created child process 7288
+[Sun Aug 20 09:34:54.520730 2023] [mpm_winnt:notice] [pid 7288:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 20 11:12:01.313931 2023] [mpm_winnt:notice] [pid 4484:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 20 11:12:03.501911 2023] [mpm_winnt:notice] [pid 7288:tid 340] AH00364: Child: All worker threads have exited.
+[Sun Aug 20 11:12:03.626910 2023] [mpm_winnt:notice] [pid 4484:tid 328] AH00430: Parent: Child process 7288 exited successfully.
+[Sun Aug 20 14:56:41.707128 2023] [mpm_winnt:notice] [pid 4248:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Aug 20 14:56:41.707128 2023] [mpm_winnt:notice] [pid 4248:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Aug 20 14:56:41.707128 2023] [core:notice] [pid 4248:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Aug 20 14:56:41.712203 2023] [mpm_winnt:notice] [pid 4248:tid 332] AH00418: Parent: Created child process 7352
+[Sun Aug 20 14:56:43.286770 2023] [mpm_winnt:notice] [pid 7352:tid 308] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 20 22:50:04.529521 2023] [mpm_winnt:notice] [pid 4248:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 20 22:50:06.592874 2023] [mpm_winnt:notice] [pid 7352:tid 308] AH00364: Child: All worker threads have exited.
+[Sun Aug 20 22:50:06.639745 2023] [mpm_winnt:notice] [pid 4248:tid 332] AH00430: Parent: Child process 7352 exited successfully.
+[Mon Aug 21 08:55:23.144944 2023] [mpm_winnt:notice] [pid 4664:tid 292] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 21 08:55:23.144944 2023] [mpm_winnt:notice] [pid 4664:tid 292] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 21 08:55:23.144944 2023] [core:notice] [pid 4664:tid 292] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 21 08:55:23.149958 2023] [mpm_winnt:notice] [pid 4664:tid 292] AH00418: Parent: Created child process 7596
+[Mon Aug 21 08:55:24.478928 2023] [mpm_winnt:notice] [pid 7596:tid 340] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 21 16:19:24.312797 2023] [mpm_winnt:notice] [pid 4664:tid 292] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 21 16:19:26.375290 2023] [mpm_winnt:notice] [pid 7596:tid 340] AH00364: Child: All worker threads have exited.
+[Mon Aug 21 16:19:26.422173 2023] [mpm_winnt:notice] [pid 4664:tid 292] AH00430: Parent: Child process 7596 exited successfully.
+[Mon Aug 21 21:23:11.533577 2023] [mpm_winnt:notice] [pid 4228:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 21 21:23:11.534594 2023] [mpm_winnt:notice] [pid 4228:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 21 21:23:11.534594 2023] [core:notice] [pid 4228:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 21 21:23:11.538608 2023] [mpm_winnt:notice] [pid 4228:tid 320] AH00418: Parent: Created child process 7160
+[Mon Aug 21 21:23:13.398032 2023] [mpm_winnt:notice] [pid 7160:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 22 00:12:11.145238 2023] [mpm_winnt:notice] [pid 4228:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 22 00:12:13.176912 2023] [mpm_winnt:notice] [pid 7160:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Aug 22 00:12:13.239413 2023] [mpm_winnt:notice] [pid 4228:tid 320] AH00430: Parent: Child process 7160 exited successfully.
+[Tue Aug 22 10:27:20.493545 2023] [mpm_winnt:notice] [pid 4376:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Aug 22 10:27:20.493545 2023] [mpm_winnt:notice] [pid 4376:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Aug 22 10:27:20.493545 2023] [core:notice] [pid 4376:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Aug 22 10:27:20.498558 2023] [mpm_winnt:notice] [pid 4376:tid 328] AH00418: Parent: Created child process 7280
+[Tue Aug 22 10:27:22.280668 2023] [mpm_winnt:notice] [pid 7280:tid 360] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 22 23:11:16.468667 2023] [mpm_winnt:notice] [pid 4376:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 22 23:11:18.516076 2023] [mpm_winnt:notice] [pid 7280:tid 360] AH00364: Child: All worker threads have exited.
+[Tue Aug 22 23:11:18.547328 2023] [mpm_winnt:notice] [pid 4376:tid 328] AH00430: Parent: Child process 7280 exited successfully.
+[Wed Aug 23 10:20:11.288355 2023] [mpm_winnt:notice] [pid 4516:tid 164] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 23 10:20:11.288355 2023] [mpm_winnt:notice] [pid 4516:tid 164] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 23 10:20:11.288355 2023] [core:notice] [pid 4516:tid 164] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 23 10:20:11.292869 2023] [mpm_winnt:notice] [pid 4516:tid 164] AH00418: Parent: Created child process 7436
+[Wed Aug 23 10:20:12.891560 2023] [mpm_winnt:notice] [pid 7436:tid 344] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 23 11:16:07.722916 2023] [mpm_winnt:notice] [pid 4516:tid 164] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 23 11:16:09.754601 2023] [mpm_winnt:notice] [pid 7436:tid 344] AH00364: Child: All worker threads have exited.
+[Wed Aug 23 11:16:09.832724 2023] [mpm_winnt:notice] [pid 4516:tid 164] AH00430: Parent: Child process 7436 exited successfully.
+[Wed Aug 23 13:31:40.965573 2023] [mpm_winnt:notice] [pid 4344:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 23 13:31:40.968586 2023] [mpm_winnt:notice] [pid 4344:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 23 13:31:40.968586 2023] [core:notice] [pid 4344:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 23 13:31:40.968586 2023] [mpm_winnt:notice] [pid 4344:tid 324] AH00418: Parent: Created child process 6764
+[Wed Aug 23 13:31:42.673325 2023] [mpm_winnt:notice] [pid 6764:tid 336] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 23 14:22:09.048353 2023] [mpm_winnt:notice] [pid 4344:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 23 14:22:11.080117 2023] [mpm_winnt:notice] [pid 6764:tid 336] AH00364: Child: All worker threads have exited.
+[Wed Aug 23 14:22:11.111369 2023] [mpm_winnt:notice] [pid 4344:tid 324] AH00430: Parent: Child process 6764 exited successfully.
+[Wed Aug 23 14:23:44.361902 2023] [mpm_winnt:notice] [pid 3888:tid 328] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 23 14:23:44.377530 2023] [mpm_winnt:notice] [pid 3888:tid 328] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 23 14:23:44.377530 2023] [core:notice] [pid 3888:tid 328] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 23 14:23:44.384550 2023] [mpm_winnt:notice] [pid 3888:tid 328] AH00418: Parent: Created child process 6128
+[Wed Aug 23 14:23:45.792595 2023] [mpm_winnt:notice] [pid 6128:tid 336] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 23 14:27:39.099191 2023] [mpm_winnt:notice] [pid 3888:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 23 14:27:41.115655 2023] [mpm_winnt:notice] [pid 6128:tid 336] AH00364: Child: All worker threads have exited.
+[Wed Aug 23 14:27:41.146908 2023] [mpm_winnt:notice] [pid 3888:tid 328] AH00430: Parent: Child process 6128 exited successfully.
+[Wed Aug 23 21:38:08.181886 2023] [mpm_winnt:notice] [pid 3784:tid 240] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 23 21:38:08.186413 2023] [mpm_winnt:notice] [pid 3784:tid 240] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 23 21:38:08.186413 2023] [core:notice] [pid 3784:tid 240] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 23 21:38:08.190425 2023] [mpm_winnt:notice] [pid 3784:tid 240] AH00418: Parent: Created child process 7128
+[Wed Aug 23 21:38:10.541459 2023] [mpm_winnt:notice] [pid 7128:tid 336] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 23 23:05:09.555130 2023] [mpm_winnt:notice] [pid 3784:tid 240] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 23 23:05:11.587187 2023] [mpm_winnt:notice] [pid 7128:tid 336] AH00364: Child: All worker threads have exited.
+[Wed Aug 23 23:05:11.618435 2023] [mpm_winnt:notice] [pid 3784:tid 240] AH00430: Parent: Child process 7128 exited successfully.
+[Thu Aug 24 06:26:22.988198 2023] [mpm_winnt:notice] [pid 4084:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Aug 24 06:26:22.996735 2023] [mpm_winnt:notice] [pid 4084:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Aug 24 06:26:22.996735 2023] [core:notice] [pid 4084:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Aug 24 06:26:23.002256 2023] [mpm_winnt:notice] [pid 4084:tid 332] AH00418: Parent: Created child process 7076
+[Thu Aug 24 06:26:25.198491 2023] [mpm_winnt:notice] [pid 7076:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 24 07:30:38.170341 2023] [mpm_winnt:notice] [pid 4084:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 24 07:30:40.186999 2023] [mpm_winnt:notice] [pid 7076:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 24 07:30:40.233875 2023] [mpm_winnt:notice] [pid 4084:tid 332] AH00430: Parent: Child process 7076 exited successfully.
+[Fri Aug 25 15:54:04.329862 2023] [mpm_winnt:notice] [pid 4908:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Aug 25 15:54:04.334914 2023] [mpm_winnt:notice] [pid 4908:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Aug 25 15:54:04.334914 2023] [core:notice] [pid 4908:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Aug 25 15:54:04.336924 2023] [mpm_winnt:notice] [pid 4908:tid 320] AH00418: Parent: Created child process 7064
+[Fri Aug 25 15:54:06.384123 2023] [mpm_winnt:notice] [pid 7064:tid 340] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 25 17:24:10.619070 2023] [mpm_winnt:notice] [pid 4908:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 25 17:24:12.807660 2023] [mpm_winnt:notice] [pid 7064:tid 340] AH00364: Child: All worker threads have exited.
+[Fri Aug 25 17:24:12.901410 2023] [mpm_winnt:notice] [pid 4908:tid 320] AH00430: Parent: Child process 7064 exited successfully.
+[Fri Aug 25 21:45:55.385582 2023] [mpm_winnt:notice] [pid 4836:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Aug 25 21:45:55.387583 2023] [mpm_winnt:notice] [pid 4836:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Aug 25 21:45:55.387583 2023] [core:notice] [pid 4836:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Aug 25 21:45:55.390586 2023] [mpm_winnt:notice] [pid 4836:tid 332] AH00418: Parent: Created child process 7332
+[Fri Aug 25 21:45:57.620663 2023] [mpm_winnt:notice] [pid 7332:tid 340] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 25 23:06:02.173054 2023] [mpm_winnt:notice] [pid 4836:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 25 23:06:04.189907 2023] [mpm_winnt:notice] [pid 7332:tid 340] AH00364: Child: All worker threads have exited.
+[Fri Aug 25 23:06:04.205537 2023] [mpm_winnt:notice] [pid 4836:tid 332] AH00430: Parent: Child process 7332 exited successfully.
+[Sat Aug 26 10:16:58.238595 2023] [mpm_winnt:notice] [pid 4868:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat Aug 26 10:16:58.239594 2023] [mpm_winnt:notice] [pid 4868:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat Aug 26 10:16:58.239594 2023] [core:notice] [pid 4868:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sat Aug 26 10:16:58.242127 2023] [mpm_winnt:notice] [pid 4868:tid 324] AH00418: Parent: Created child process 7380
+[Sat Aug 26 10:17:00.738549 2023] [mpm_winnt:notice] [pid 7380:tid 336] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 26 22:37:18.190469 2023] [mpm_winnt:notice] [pid 4868:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 26 22:37:20.263823 2023] [mpm_winnt:notice] [pid 7380:tid 336] AH00364: Child: All worker threads have exited.
+[Sat Aug 26 22:37:20.295071 2023] [mpm_winnt:notice] [pid 4868:tid 324] AH00430: Parent: Child process 7380 exited successfully.
+[Sun Aug 27 09:38:13.466167 2023] [mpm_winnt:notice] [pid 4980:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Aug 27 09:38:13.467677 2023] [mpm_winnt:notice] [pid 4980:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Aug 27 09:38:13.467677 2023] [core:notice] [pid 4980:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Aug 27 09:38:13.469691 2023] [mpm_winnt:notice] [pid 4980:tid 320] AH00418: Parent: Created child process 7892
+[Sun Aug 27 09:38:15.621671 2023] [mpm_winnt:notice] [pid 7892:tid 336] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 27 11:21:10.914294 2023] [mpm_winnt:notice] [pid 4980:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 27 11:21:12.977619 2023] [mpm_winnt:notice] [pid 7892:tid 336] AH00364: Child: All worker threads have exited.
+[Sun Aug 27 11:21:13.008872 2023] [mpm_winnt:notice] [pid 4980:tid 320] AH00430: Parent: Child process 7892 exited successfully.
+[Sun Aug 27 14:02:15.044375 2023] [mpm_winnt:notice] [pid 5028:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Aug 27 14:02:15.044375 2023] [mpm_winnt:notice] [pid 5028:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Aug 27 14:02:15.044375 2023] [core:notice] [pid 5028:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Aug 27 14:02:15.049393 2023] [mpm_winnt:notice] [pid 5028:tid 324] AH00418: Parent: Created child process 7800
+[Sun Aug 27 14:02:16.599040 2023] [mpm_winnt:notice] [pid 7800:tid 356] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 27 22:40:31.643990 2023] [mpm_winnt:notice] [pid 5028:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 27 22:40:33.691714 2023] [mpm_winnt:notice] [pid 7800:tid 356] AH00364: Child: All worker threads have exited.
+[Sun Aug 27 22:40:33.738590 2023] [mpm_winnt:notice] [pid 5028:tid 324] AH00430: Parent: Child process 7800 exited successfully.
+[Mon Aug 28 06:59:22.609329 2023] [mpm_winnt:notice] [pid 4900:tid 316] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 28 06:59:22.611328 2023] [mpm_winnt:notice] [pid 4900:tid 316] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 28 06:59:22.611328 2023] [core:notice] [pid 4900:tid 316] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 28 06:59:22.614327 2023] [mpm_winnt:notice] [pid 4900:tid 316] AH00418: Parent: Created child process 7732
+[Mon Aug 28 06:59:24.565205 2023] [mpm_winnt:notice] [pid 7732:tid 368] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 28 15:11:18.670845 2023] [mpm_winnt:notice] [pid 4900:tid 316] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 28 15:11:20.718147 2023] [mpm_winnt:notice] [pid 7732:tid 368] AH00364: Child: All worker threads have exited.
+[Mon Aug 28 15:11:20.765027 2023] [mpm_winnt:notice] [pid 4900:tid 316] AH00430: Parent: Child process 7732 exited successfully.
+[Mon Aug 28 21:13:46.929636 2023] [mpm_winnt:notice] [pid 5232:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Aug 28 21:13:46.930640 2023] [mpm_winnt:notice] [pid 5232:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Aug 28 21:13:46.930640 2023] [core:notice] [pid 5232:tid 332] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Aug 28 21:13:46.933176 2023] [mpm_winnt:notice] [pid 5232:tid 332] AH00418: Parent: Created child process 7780
+[Mon Aug 28 21:13:49.258323 2023] [mpm_winnt:notice] [pid 7780:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 28 22:45:06.762485 2023] [mpm_winnt:notice] [pid 5232:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 28 22:45:08.887875 2023] [mpm_winnt:notice] [pid 7780:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Aug 28 22:45:08.965998 2023] [mpm_winnt:notice] [pid 5232:tid 332] AH00430: Parent: Child process 7780 exited successfully.
+[Tue Aug 29 10:18:35.793481 2023] [mpm_winnt:notice] [pid 5000:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Aug 29 10:18:35.796998 2023] [mpm_winnt:notice] [pid 5000:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Aug 29 10:18:35.796998 2023] [core:notice] [pid 5000:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Tue Aug 29 10:18:35.800034 2023] [mpm_winnt:notice] [pid 5000:tid 320] AH00418: Parent: Created child process 7512
+[Tue Aug 29 10:18:38.011354 2023] [mpm_winnt:notice] [pid 7512:tid 348] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 29 23:09:20.529822 2023] [mpm_winnt:notice] [pid 5000:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 29 23:09:22.602654 2023] [mpm_winnt:notice] [pid 7512:tid 348] AH00364: Child: All worker threads have exited.
+[Tue Aug 29 23:09:22.649528 2023] [mpm_winnt:notice] [pid 5000:tid 320] AH00430: Parent: Child process 7512 exited successfully.
+[Wed Aug 30 07:28:34.651647 2023] [mpm_winnt:notice] [pid 5188:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 30 07:28:34.651647 2023] [mpm_winnt:notice] [pid 5188:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 30 07:28:34.651647 2023] [core:notice] [pid 5188:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 30 07:28:34.656691 2023] [mpm_winnt:notice] [pid 5188:tid 320] AH00418: Parent: Created child process 7564
+[Wed Aug 30 07:28:36.494367 2023] [mpm_winnt:notice] [pid 7564:tid 360] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 30 14:12:53.458173 2023] [mpm_winnt:notice] [pid 5188:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 30 14:12:55.475071 2023] [mpm_winnt:notice] [pid 7564:tid 360] AH00364: Child: All worker threads have exited.
+[Wed Aug 30 14:12:55.521945 2023] [mpm_winnt:notice] [pid 5188:tid 320] AH00430: Parent: Child process 7564 exited successfully.
+[Wed Aug 30 21:32:11.068923 2023] [mpm_winnt:notice] [pid 5780:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Wed Aug 30 21:32:11.068923 2023] [mpm_winnt:notice] [pid 5780:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Wed Aug 30 21:32:11.068923 2023] [core:notice] [pid 5780:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Wed Aug 30 21:32:11.077434 2023] [mpm_winnt:notice] [pid 5780:tid 324] AH00418: Parent: Created child process 6272
+[Wed Aug 30 21:32:13.319096 2023] [mpm_winnt:notice] [pid 6272:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 31 00:30:52.485563 2023] [mpm_winnt:notice] [pid 5780:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 31 00:30:54.547886 2023] [mpm_winnt:notice] [pid 6272:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 31 00:30:54.563510 2023] [mpm_winnt:notice] [pid 5780:tid 324] AH00430: Parent: Child process 6272 exited successfully.
+[Thu Aug 31 06:43:27.095792 2023] [mpm_winnt:notice] [pid 4808:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu Aug 31 06:43:27.096795 2023] [mpm_winnt:notice] [pid 4808:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu Aug 31 06:43:27.096795 2023] [core:notice] [pid 4808:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Thu Aug 31 06:43:27.099308 2023] [mpm_winnt:notice] [pid 4808:tid 324] AH00418: Parent: Created child process 7332
+[Thu Aug 31 06:43:29.315193 2023] [mpm_winnt:notice] [pid 7332:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 31 19:15:10.858771 2023] [mpm_winnt:notice] [pid 4808:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 31 19:15:12.922543 2023] [mpm_winnt:notice] [pid 7332:tid 336] AH00364: Child: All worker threads have exited.
+[Thu Aug 31 19:15:12.953791 2023] [mpm_winnt:notice] [pid 4808:tid 324] AH00430: Parent: Child process 7332 exited successfully.
+[Fri Sep 01 20:36:37.515011 2023] [mpm_winnt:notice] [pid 4544:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri Sep 01 20:36:37.517009 2023] [mpm_winnt:notice] [pid 4544:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri Sep 01 20:36:37.517009 2023] [core:notice] [pid 4544:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Fri Sep 01 20:36:37.519010 2023] [mpm_winnt:notice] [pid 4544:tid 320] AH00418: Parent: Created child process 7576
+[Fri Sep 01 20:36:39.120289 2023] [mpm_winnt:notice] [pid 7576:tid 344] AH00354: Child: Starting 64 worker threads.
+[Fri Sep 01 23:35:33.994314 2023] [mpm_winnt:notice] [pid 4544:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 01 23:35:36.041656 2023] [mpm_winnt:notice] [pid 7576:tid 344] AH00364: Child: All worker threads have exited.
+[Fri Sep 01 23:35:36.088533 2023] [mpm_winnt:notice] [pid 4544:tid 320] AH00430: Parent: Child process 7576 exited successfully.
+[Sun Sep 03 15:27:38.245658 2023] [mpm_winnt:notice] [pid 4428:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Sep 03 15:27:38.250707 2023] [mpm_winnt:notice] [pid 4428:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Sep 03 15:27:38.250707 2023] [core:notice] [pid 4428:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Sun Sep 03 15:27:38.255716 2023] [mpm_winnt:notice] [pid 4428:tid 324] AH00418: Parent: Created child process 8052
+[Sun Sep 03 15:27:40.416405 2023] [mpm_winnt:notice] [pid 8052:tid 176] AH00354: Child: Starting 64 worker threads.
+[Sun Sep 03 23:32:16.996116 2023] [mpm_winnt:notice] [pid 4428:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Sep 03 23:32:19.042990 2023] [mpm_winnt:notice] [pid 8052:tid 176] AH00364: Child: All worker threads have exited.
+[Sun Sep 03 23:32:19.074241 2023] [mpm_winnt:notice] [pid 4428:tid 324] AH00430: Parent: Child process 8052 exited successfully.
+[Mon Sep 04 09:07:42.931791 2023] [mpm_winnt:notice] [pid 4936:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Sep 04 09:07:42.932793 2023] [mpm_winnt:notice] [pid 4936:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Sep 04 09:07:42.932793 2023] [core:notice] [pid 4936:tid 320] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Sep 04 09:07:42.935788 2023] [mpm_winnt:notice] [pid 4936:tid 320] AH00418: Parent: Created child process 8140
+[Mon Sep 04 09:07:44.859741 2023] [mpm_winnt:notice] [pid 8140:tid 332] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 04 12:22:18.182702 2023] [mpm_winnt:notice] [pid 4936:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Sep 04 12:22:20.230401 2023] [mpm_winnt:notice] [pid 8140:tid 332] AH00364: Child: All worker threads have exited.
+[Mon Sep 04 12:22:20.261653 2023] [mpm_winnt:notice] [pid 4936:tid 320] AH00430: Parent: Child process 8140 exited successfully.
+[Mon Sep 04 15:08:59.688373 2023] [mpm_winnt:notice] [pid 4812:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Mon Sep 04 15:08:59.689375 2023] [mpm_winnt:notice] [pid 4812:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Mon Sep 04 15:08:59.689375 2023] [core:notice] [pid 4812:tid 324] AH00094: Command line: 'D:\\Code\\IT4552E\\httpd-2.4.55-o111s-x64-vs17\\Apache24\\bin\\httpd.exe -d D:/Code/IT4552E/httpd-2.4.55-o111s-x64-vs17/Apache24'
+[Mon Sep 04 15:08:59.691904 2023] [mpm_winnt:notice] [pid 4812:tid 324] AH00418: Parent: Created child process 8172
